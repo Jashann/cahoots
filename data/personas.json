@@ -1,0 +1,3055 @@
+[
+ {
+  "person_id": "p000",
+  "first_name": "Miriam",
+  "one_liner": "Miriam, the novelist",
+  "interests": [
+   "literary fiction",
+   "writing workshops",
+   "used bookstores",
+   "long walks along the river"
+  ],
+  "likes": [
+   "quiet",
+   "creative"
+  ],
+  "avoids": [
+   "lively",
+   "competitive"
+  ],
+  "modes": [
+   "friends",
+   "hobby"
+  ],
+  "neighbourhood": "North Kildonan",
+  "max_travel_min": 30,
+  "budget_cad": 30,
+  "group_size_pref": [
+   2,
+   4
+  ],
+  "availability": [
+   {
+    "day": "wed",
+    "start": "18:00",
+    "end": "22:00"
+   },
+   {
+    "day": "fri",
+    "start": "18:00",
+    "end": "23:00"
+   },
+   {
+    "day": "sun",
+    "start": "14:00",
+    "end": "18:00"
+   }
+  ],
+  "notes_for_agents": "I prefer intimate conversations over loud venues. Working on my second novel so evenings are best after I've hit my word count.",
+  "can_help_with": "reading a manuscript honestly; knows the small presses and writing workshops in town"
+ },
+ {
+  "person_id": "p001",
+  "first_name": "Dorothy",
+  "one_liner": "Dorothy, the retired teacher and book club host",
+  "interests": [
+   "book clubs",
+   "board games",
+   "gardening",
+   "local history"
+  ],
+  "likes": [
+   "creative",
+   "nerdy",
+   "quiet"
+  ],
+  "avoids": [
+   "lively",
+   "competitive"
+  ],
+  "modes": [
+   "friends",
+   "hobby"
+  ],
+  "neighbourhood": "Osborne Village",
+  "max_travel_min": 20,
+  "budget_cad": 35,
+  "group_size_pref": [
+   4,
+   8
+  ],
+  "availability": [
+   {
+    "day": "tue",
+    "start": "13:00",
+    "end": "18:00"
+   },
+   {
+    "day": "thu",
+    "start": "13:00",
+    "end": "18:00"
+   },
+   {
+    "day": "sat",
+    "start": "12:00",
+    "end": "17:00"
+   },
+   {
+    "day": "sun",
+    "start": "13:00",
+    "end": "18:00"
+   }
+  ],
+  "notes_for_agents": "I've been running a book club for 12 years and would love to explore board-game cafés with new friends. Afternoons work best for me.",
+  "can_help_with": "starting a book club or a reading group that lasts; knows every library branch and the local-history archive"
+ },
+ {
+  "person_id": "p002",
+  "first_name": "Rajesh",
+  "one_liner": "Rajesh, the cricket-loving accountant",
+  "interests": [
+   "cricket",
+   "Indian cooking",
+   "Bollywood films",
+   "badminton"
+  ],
+  "likes": [
+   "food",
+   "lively",
+   "competitive"
+  ],
+  "avoids": [
+   "quiet"
+  ],
+  "modes": [
+   "friends",
+   "anything"
+  ],
+  "neighbourhood": "West End",
+  "max_travel_min": 35,
+  "budget_cad": 40,
+  "group_size_pref": [
+   4,
+   10
+  ],
+  "availability": [
+   {
+    "day": "thu",
+    "start": "18:30",
+    "end": "22:30"
+   },
+   {
+    "day": "fri",
+    "start": "18:00",
+    "end": "23:00"
+   },
+   {
+    "day": "sat",
+    "start": "14:00",
+    "end": "22:00"
+   },
+   {
+    "day": "sun",
+    "start": "12:00",
+    "end": "19:00"
+   }
+  ],
+  "notes_for_agents": "Moved to Winnipeg 8 months ago from Mumbai. Would love to meet people who enjoy good food and sports. Always happy to cook for new friends!",
+  "can_help_with": "bookkeeping and first-year accounting for a small business; GST and the paperwork a startup dreads"
+ },
+ {
+  "person_id": "p003",
+  "first_name": "Marcus",
+  "one_liner": "Marcus, the high-school basketball coach",
+  "interests": [
+   "basketball",
+   "craft beer",
+   "March Madness",
+   "coaching clinics"
+  ],
+  "likes": [
+   "lively",
+   "competitive",
+   "food"
+  ],
+  "avoids": [
+   "quiet",
+   "creative"
+  ],
+  "modes": [
+   "friends",
+   "hobby"
+  ],
+  "neighbourhood": "Downtown",
+  "max_travel_min": 25,
+  "budget_cad": 45,
+  "group_size_pref": [
+   3,
+   6
+  ],
+  "availability": [
+   {
+    "day": "fri",
+    "start": "18:00",
+    "end": "23:00"
+   },
+   {
+    "day": "sat",
+    "start": "13:00",
+    "end": "22:00"
+   },
+   {
+    "day": "sun",
+    "start": "14:00",
+    "end": "19:00"
+   }
+  ],
+  "notes_for_agents": "Coach varsity basketball so my schedule clears up after 5pm weekdays and I'm free most weekends. Love watching games at sports bars with good company.",
+  "can_help_with": "coaching a team, running a clinic, or getting gym time at a high school"
+ },
+ {
+  "person_id": "p004",
+  "first_name": "Kenji",
+  "one_liner": "Kenji, the sci-fi reading developer",
+  "interests": [
+   "sci-fi novels",
+   "pickup basketball",
+   "video game design",
+   "anime conventions"
+  ],
+  "likes": [
+   "nerdy",
+   "competitive",
+   "creative"
+  ],
+  "avoids": [],
+  "modes": [
+   "friends",
+   "hobby"
+  ],
+  "neighbourhood": "Exchange District",
+  "max_travel_min": 30,
+  "budget_cad": 50,
+  "group_size_pref": [
+   3,
+   8
+  ],
+  "availability": [
+   {
+    "day": "tue",
+    "start": "18:00",
+    "end": "22:00"
+   },
+   {
+    "day": "fri",
+    "start": "18:00",
+    "end": "23:00"
+   },
+   {
+    "day": "sat",
+    "start": "10:00",
+    "end": "14:00"
+   },
+   {
+    "day": "sat",
+    "start": "18:00",
+    "end": "23:00"
+   },
+   {
+    "day": "sun",
+    "start": "12:00",
+    "end": "18:00"
+   }
+  ],
+  "notes_for_agents": "Just moved here for work three months ago. Remote dev job gives me flexibility. Looking for people to play pickup ball with or discuss the latest sci-fi releases.",
+  "can_help_with": "building a first website or app for an idea; game design feedback"
+ },
+ {
+  "person_id": "p005",
+  "first_name": "Sasha",
+  "one_liner": "Sasha, the music-loving ER nurse",
+  "interests": [
+   "punk shows at the Good Will",
+   "vinyl collecting",
+   "indie concerts",
+   "tattoo art"
+  ],
+  "likes": [
+   "lively",
+   "music",
+   "creative"
+  ],
+  "avoids": [
+   "quiet"
+  ],
+  "modes": [
+   "friends",
+   "dates"
+  ],
+  "neighbourhood": "North Kildonan",
+  "max_travel_min": 25,
+  "budget_cad": 55,
+  "group_size_pref": [
+   2,
+   5
+  ],
+  "availability": [
+   {
+    "day": "mon",
+    "start": "18:00",
+    "end": "23:00"
+   },
+   {
+    "day": "wed",
+    "start": "18:00",
+    "end": "23:00"
+   },
+   {
+    "day": "sat",
+    "start": "19:00",
+    "end": "23:30"
+   },
+   {
+    "day": "sun",
+    "start": "13:00",
+    "end": "19:00"
+   }
+  ],
+  "notes_for_agents": "Work rotating shifts at HSC ER so my schedule changes. Can't stand surface-level chitchat - let's dive into real conversations about music, art, or whatever matters to you.",
+  "can_help_with": "first aid and what to do when someone gets hurt at an event; knows the punk and vinyl scene"
+ },
+ {
+  "person_id": "p006",
+  "first_name": "Étienne",
+  "one_liner": "Étienne, the trivia-crushing history grad student",
+  "interests": [
+   "pub trivia",
+   "Canadian history",
+   "used book sales",
+   "vintage maps"
+  ],
+  "likes": [
+   "nerdy",
+   "competitive",
+   "lively"
+  ],
+  "avoids": [
+   "quiet"
+  ],
+  "modes": [
+   "friends",
+   "hobby"
+  ],
+  "neighbourhood": "St. Boniface",
+  "max_travel_min": 30,
+  "budget_cad": 15,
+  "group_size_pref": [
+   4,
+   8
+  ],
+  "availability": [
+   {
+    "day": "tue",
+    "start": "18:00",
+    "end": "22:00"
+   },
+   {
+    "day": "wed",
+    "start": "18:00",
+    "end": "22:00"
+   },
+   {
+    "day": "fri",
+    "start": "19:00",
+    "end": "23:00"
+   },
+   {
+    "day": "sun",
+    "start": "13:00",
+    "end": "18:00"
+   }
+  ],
+  "notes_for_agents": "PhD student so my budget is tight, but I'm undefeated at trivia nights. Love meeting people who enjoy a good debate or friendly competition.",
+  "can_help_with": "research on anything Canadian and historical; finding a source fast"
+ },
+ {
+  "person_id": "p007",
+  "first_name": "Amara",
+  "one_liner": "Amara, the sci-fi enthusiast and developer",
+  "interests": [
+   "sci-fi novels",
+   "pickup basketball",
+   "coffee shops",
+   "tech meetups"
+  ],
+  "likes": [
+   "nerdy",
+   "competitive",
+   "creative"
+  ],
+  "avoids": [],
+  "modes": [
+   "friends",
+   "hobby",
+   "dates"
+  ],
+  "neighbourhood": "Osborne Village",
+  "max_travel_min": 25,
+  "budget_cad": 45,
+  "group_size_pref": [
+   3,
+   7
+  ],
+  "availability": [
+   {
+    "day": "wed",
+    "start": "18:00",
+    "end": "22:00"
+   },
+   {
+    "day": "fri",
+    "start": "18:00",
+    "end": "23:00"
+   },
+   {
+    "day": "sat",
+    "start": "09:00",
+    "end": "14:00"
+   },
+   {
+    "day": "sat",
+    "start": "18:00",
+    "end": "23:00"
+   },
+   {
+    "day": "sun",
+    "start": "12:00",
+    "end": "17:00"
+   }
+  ],
+  "notes_for_agents": "Relocated from Toronto two months ago. Remote developer so I have flexible hours. Looking to meet people for pickup games or to discuss Foundation, Dune, and everything in between.",
+  "can_help_with": "tech meetups and where developers gather; a second pair of eyes on a prototype"
+ },
+ {
+  "person_id": "p008",
+  "first_name": "Luca",
+  "one_liner": "Luca, the no-small-talk music lover",
+  "interests": [
+   "jazz at the Times Changed",
+   "folk music",
+   "record shops",
+   "photography"
+  ],
+  "likes": [
+   "lively",
+   "music",
+   "creative"
+  ],
+  "avoids": [
+   "quiet"
+  ],
+  "modes": [
+   "friends",
+   "dates"
+  ],
+  "neighbourhood": "North Kildonan",
+  "max_travel_min": 30,
+  "budget_cad": 50,
+  "group_size_pref": [
+   2,
+   6
+  ],
+  "availability": [
+   {
+    "day": "tue",
+    "start": "18:00",
+    "end": "23:00"
+   },
+   {
+    "day": "thu",
+    "start": "18:00",
+    "end": "23:00"
+   },
+   {
+    "day": "sat",
+    "start": "19:00",
+    "end": "23:30"
+   },
+   {
+    "day": "sun",
+    "start": "13:00",
+    "end": "18:00"
+   }
+  ],
+  "notes_for_agents": "ICU nurse with rotating shifts, so my availability changes week to week. Skip the weather talk and let's get real - I want to connect over what actually moves us.",
+  "can_help_with": "live-music bookings at small rooms; photography for a band or a shop"
+ },
+ {
+  "person_id": "p009",
+  "first_name": "Priya",
+  "one_liner": "Priya, the cricket and cooking enthusiast",
+  "interests": [
+   "cricket",
+   "South Indian cooking",
+   "Tamil cinema",
+   "hiking trails"
+  ],
+  "likes": [
+   "food",
+   "lively",
+   "competitive",
+   "outdoors"
+  ],
+  "avoids": [
+   "quiet"
+  ],
+  "modes": [
+   "friends",
+   "anything"
+  ],
+  "neighbourhood": "Fort Garry",
+  "max_travel_min": 40,
+  "budget_cad": 35,
+  "group_size_pref": [
+   4,
+   9
+  ],
+  "availability": [
+   {
+    "day": "wed",
+    "start": "18:00",
+    "end": "22:00"
+   },
+   {
+    "day": "fri",
+    "start": "18:00",
+    "end": "23:00"
+   },
+   {
+    "day": "sat",
+    "start": "13:00",
+    "end": "22:00"
+   },
+   {
+    "day": "sun",
+    "start": "12:00",
+    "end": "19:00"
+   }
+  ],
+  "notes_for_agents": "Moved from Chennai six months ago. Love hosting dinner parties and would be thrilled to find a cricket league or just people who enjoy trying new recipes together.",
+  "can_help_with": "hiking routes and a cricket team that needs players; feeding a crowd South Indian style"
+ },
+ {
+  "person_id": "p010",
+  "first_name": "Yuki",
+  "one_liner": "Yuki, the urban sketching illustrator",
+  "interests": [
+   "urban sketching",
+   "WAG gallery nights",
+   "graphic novels",
+   "printmaking"
+  ],
+  "likes": [
+   "creative",
+   "quiet",
+   "nerdy"
+  ],
+  "avoids": [
+   "competitive",
+   "lively"
+  ],
+  "modes": [
+   "friends",
+   "hobby"
+  ],
+  "neighbourhood": "Exchange District",
+  "max_travel_min": 20,
+  "budget_cad": 40,
+  "group_size_pref": [
+   3,
+   6
+  ],
+  "availability": [
+   {
+    "day": "thu",
+    "start": "18:00",
+    "end": "22:00"
+   },
+   {
+    "day": "fri",
+    "start": "18:00",
+    "end": "23:00"
+   },
+   {
+    "day": "sat",
+    "start": "13:00",
+    "end": "18:00"
+   },
+   {
+    "day": "sun",
+    "start": "12:00",
+    "end": "18:00"
+   }
+  ],
+  "notes_for_agents": "Freelance illustrator looking for other creatives. Would love to organize sketching meetups at cafés or explore gallery openings together.",
+  "can_help_with": "illustration, a logo or a zine layout; printmaking and where to get things printed"
+ },
+ {
+  "person_id": "p011",
+  "first_name": "Tyrell",
+  "one_liner": "Tyrell, the Sunday-only warehouse worker",
+  "interests": [
+   "hip-hop",
+   "bowling",
+   "action movies",
+   "fishing"
+  ],
+  "likes": [
+   "lively",
+   "competitive",
+   "music"
+  ],
+  "avoids": [],
+  "modes": [
+   "friends",
+   "anything"
+  ],
+  "neighbourhood": "Downtown",
+  "max_travel_min": 20,
+  "budget_cad": 25,
+  "group_size_pref": [
+   2,
+   5
+  ],
+  "availability": [
+   {
+    "day": "sun",
+    "start": "12:00",
+    "end": "18:00"
+   }
+  ],
+  "notes_for_agents": "Work warehouse mornings and retail evenings, so Sunday afternoon is literally my only free time. Looking for chill people who want to grab food or catch a movie.",
+  "can_help_with": "warehouse and shipping contacts; moving heavy things on a Sunday"
+ },
+ {
+  "person_id": "p012",
+  "first_name": "Desiree",
+  "one_liner": "Desiree, the metal-loving surgical nurse",
+  "interests": [
+   "live music at the Garrick",
+   "metal shows",
+   "concert photography",
+   "thrift shopping"
+  ],
+  "likes": [
+   "lively",
+   "music",
+   "creative"
+  ],
+  "avoids": [
+   "quiet"
+  ],
+  "modes": [
+   "friends",
+   "dates"
+  ],
+  "neighbourhood": "Downtown",
+  "max_travel_min": 20,
+  "budget_cad": 60,
+  "group_size_pref": [
+   2,
+   5
+  ],
+  "availability": [
+   {
+    "day": "mon",
+    "start": "18:00",
+    "end": "23:00"
+   },
+   {
+    "day": "thu",
+    "start": "18:00",
+    "end": "23:00"
+   },
+   {
+    "day": "fri",
+    "start": "19:00",
+    "end": "23:30"
+   },
+   {
+    "day": "sun",
+    "start": "13:00",
+    "end": "18:00"
+   }
+  ],
+  "notes_for_agents": "Work rotating shifts in the surgical unit. Life's too short for boring conversations - let's talk about the music that changed us or the show that blew our minds.",
+  "can_help_with": "concert and product photography on a budget; thrifting for a look"
+ },
+ {
+  "person_id": "p013",
+  "first_name": "Chen",
+  "one_liner": "Chen, the competitive history scholar",
+  "interests": [
+   "trivia leagues",
+   "military history",
+   "documentary films",
+   "chess"
+  ],
+  "likes": [
+   "nerdy",
+   "competitive",
+   "creative"
+  ],
+  "avoids": [
+   "quiet"
+  ],
+  "modes": [
+   "friends",
+   "hobby"
+  ],
+  "neighbourhood": "Downtown",
+  "max_travel_min": 25,
+  "budget_cad": 12,
+  "group_size_pref": [
+   4,
+   8
+  ],
+  "availability": [
+   {
+    "day": "mon",
+    "start": "18:00",
+    "end": "22:00"
+   },
+   {
+    "day": "wed",
+    "start": "18:00",
+    "end": "22:00"
+   },
+   {
+    "day": "fri",
+    "start": "19:00",
+    "end": "23:00"
+   },
+   {
+    "day": "sat",
+    "start": "18:00",
+    "end": "23:00"
+   }
+  ],
+  "notes_for_agents": "MA student researching WWI on a tight budget. I live for trivia nights - my team hasn't lost in three months. Happy to nurse one beer all evening if it means good competition.",
+  "can_help_with": "chess coaching and trivia-team strategy; documentary recommendations"
+ },
+ {
+  "person_id": "p014",
+  "first_name": "Jamal",
+  "one_liner": "Jamal, the basketball coach and craft beer fan",
+  "interests": [
+   "basketball",
+   "craft breweries",
+   "NFL Sundays",
+   "fitness training"
+  ],
+  "likes": [
+   "lively",
+   "competitive",
+   "food"
+  ],
+  "avoids": [
+   "quiet",
+   "creative"
+  ],
+  "modes": [
+   "friends",
+   "hobby"
+  ],
+  "neighbourhood": "Fort Garry",
+  "max_travel_min": 30,
+  "budget_cad": 50,
+  "group_size_pref": [
+   3,
+   7
+  ],
+  "availability": [
+   {
+    "day": "fri",
+    "start": "18:00",
+    "end": "23:00"
+   },
+   {
+    "day": "sat",
+    "start": "12:00",
+    "end": "22:00"
+   },
+   {
+    "day": "sun",
+    "start": "14:00",
+    "end": "20:00"
+   }
+  ],
+  "notes_for_agents": "Coach girls basketball at the high school level. Saturday afternoons are perfect for catching games at a pub or shooting hoops. Always down to check out new breweries.",
+  "can_help_with": "fitness plans and team training; knows the breweries that host events"
+ },
+ {
+  "person_id": "p015",
+  "first_name": "Sofia",
+  "one_liner": "Sofia, the hustle-mode Sunday regular",
+  "interests": [
+   "salsa dancing",
+   "true crime podcasts",
+   "flea markets",
+   "DIY projects"
+  ],
+  "likes": [
+   "lively",
+   "creative",
+   "music"
+  ],
+  "avoids": [],
+  "modes": [
+   "friends",
+   "anything"
+  ],
+  "neighbourhood": "Exchange District",
+  "max_travel_min": 15,
+  "budget_cad": 20,
+  "group_size_pref": [
+   2,
+   6
+  ],
+  "availability": [
+   {
+    "day": "sun",
+    "start": "12:00",
+    "end": "18:00"
+   }
+  ],
+  "notes_for_agents": "Juggle warehouse day shifts and restaurant evenings, so Sunday afternoon is my only window. Would love to meet people for brunch, markets, or just hanging out.",
+  "can_help_with": "running a small cut-and-sew studio in the Exchange: small-batch garment manufacturing, samples and pattern grading; salsa nights"
+ },
+ {
+  "person_id": "p016",
+  "first_name": "Dalisay",
+  "one_liner": "Dalisay, the adventurous-eating line cook",
+  "interests": [
+   "Filipino street food",
+   "experimental restaurants",
+   "hot sauce collecting",
+   "food truck scene"
+  ],
+  "likes": [
+   "food",
+   "lively",
+   "creative"
+  ],
+  "avoids": [
+   "quiet"
+  ],
+  "modes": [
+   "friends",
+   "hobby"
+  ],
+  "neighbourhood": "St. Boniface",
+  "max_travel_min": 35,
+  "budget_cad": 65,
+  "group_size_pref": [
+   3,
+   6
+  ],
+  "availability": [
+   {
+    "day": "mon",
+    "start": "12:00",
+    "end": "23:00"
+   },
+   {
+    "day": "tue",
+    "start": "10:00",
+    "end": "15:00"
+   },
+   {
+    "day": "fri",
+    "start": "18:00",
+    "end": "23:00"
+   },
+   {
+    "day": "sat",
+    "start": "18:00",
+    "end": "23:00"
+   }
+  ],
+  "notes_for_agents": "Line cook at a French restaurant, off Mondays and mornings before my shift. Looking for adventurous eaters who'll try bone marrow, fermented things, and the weird stuff on the menu.",
+  "can_help_with": "line-cook shifts and a pop-up kitchen; sourcing Filipino ingredients"
+ },
+ {
+  "person_id": "p017",
+  "first_name": "Theo",
+  "one_liner": "Theo, the cyberpunk-reading developer",
+  "interests": [
+   "sci-fi conventions",
+   "pickup basketball",
+   "cyberpunk novels",
+   "escape rooms"
+  ],
+  "likes": [
+   "nerdy",
+   "competitive",
+   "creative"
+  ],
+  "avoids": [],
+  "modes": [
+   "friends",
+   "hobby"
+  ],
+  "neighbourhood": "Exchange District",
+  "max_travel_min": 20,
+  "budget_cad": 55,
+  "group_size_pref": [
+   3,
+   8
+  ],
+  "availability": [
+   {
+    "day": "thu",
+    "start": "18:00",
+    "end": "22:00"
+   },
+   {
+    "day": "fri",
+    "start": "18:00",
+    "end": "23:00"
+   },
+   {
+    "day": "sat",
+    "start": "09:00",
+    "end": "13:00"
+   },
+   {
+    "day": "sat",
+    "start": "18:00",
+    "end": "23:00"
+   },
+   {
+    "day": "sun",
+    "start": "12:00",
+    "end": "18:00"
+   }
+  ],
+  "notes_for_agents": "Just moved from Vancouver for a dev job. Remote work means flexible schedule. Looking for pickup basketball games and people to geek out over Neuromancer and The Expanse with.",
+  "can_help_with": "an escape-room night for a team; prototyping software with a small crew"
+ },
+ {
+  "person_id": "p018",
+  "first_name": "Margaret",
+  "one_liner": "Margaret, the sunrise birder",
+  "interests": [
+   "birdwatching at FortWhyte",
+   "hiking trails",
+   "nature photography",
+   "conservation volunteering"
+  ],
+  "likes": [
+   "outdoors",
+   "quiet",
+   "creative"
+  ],
+  "avoids": [
+   "lively"
+  ],
+  "modes": [
+   "friends",
+   "hobby"
+  ],
+  "neighbourhood": "North Kildonan",
+  "max_travel_min": 40,
+  "budget_cad": 20,
+  "group_size_pref": [
+   2,
+   4
+  ],
+  "availability": [
+   {
+    "day": "sat",
+    "start": "06:00",
+    "end": "12:00"
+   },
+   {
+    "day": "sun",
+    "start": "06:00",
+    "end": "13:00"
+   }
+  ],
+  "notes_for_agents": "Early riser who prefers morning hikes and birding over nightlife. Would love to meet people for trail walks, park explorations, or quiet outdoor adventures.",
+  "can_help_with": "birding walks for beginners; conservation volunteering contacts"
+ },
+ {
+  "person_id": "p019",
+  "first_name": "Vik",
+  "one_liner": "Vik, the philosophy-loving barista",
+  "interests": [
+   "chess",
+   "existentialism",
+   "indie bookstores",
+   "poetry slams"
+  ],
+  "likes": [
+   "nerdy",
+   "quiet",
+   "creative"
+  ],
+  "avoids": [
+   "competitive"
+  ],
+  "modes": [
+   "friends",
+   "dates",
+   "anything"
+  ],
+  "neighbourhood": "Osborne Village",
+  "max_travel_min": 15,
+  "budget_cad": 25,
+  "group_size_pref": [
+   2,
+   5
+  ],
+  "availability": [
+   {
+    "day": "mon",
+    "start": "18:00",
+    "end": "22:00"
+   },
+   {
+    "day": "tue",
+    "start": "18:00",
+    "end": "22:00"
+   },
+   {
+    "day": "fri",
+    "start": "18:00",
+    "end": "23:00"
+   },
+   {
+    "day": "sun",
+    "start": "12:00",
+    "end": "18:00"
+   }
+  ],
+  "notes_for_agents": "Left my philosophy PhD to make espresso and found I'm happier. Love deep conversations over chess about Camus, Kierkegaard, or why we're all here.",
+  "can_help_with": "a chess game and a straight answer; the poetry-slam and indie-bookstore circuit"
+ },
+ {
+  "person_id": "p020",
+  "first_name": "Harold",
+  "one_liner": "Harold, the book club veteran",
+  "interests": [
+   "mystery novels",
+   "board games",
+   "British TV",
+   "community theatre"
+  ],
+  "likes": [
+   "creative",
+   "nerdy",
+   "quiet"
+  ],
+  "avoids": [
+   "lively",
+   "competitive"
+  ],
+  "modes": [
+   "friends",
+   "hobby"
+  ],
+  "neighbourhood": "Downtown",
+  "max_travel_min": 15,
+  "budget_cad": 40,
+  "group_size_pref": [
+   4,
+   8
+  ],
+  "availability": [
+   {
+    "day": "wed",
+    "start": "13:00",
+    "end": "18:00"
+   },
+   {
+    "day": "thu",
+    "start": "13:00",
+    "end": "18:00"
+   },
+   {
+    "day": "sat",
+    "start": "12:00",
+    "end": "18:00"
+   },
+   {
+    "day": "sun",
+    "start": "13:00",
+    "end": "18:00"
+   }
+  ],
+  "notes_for_agents": "Taught English for 35 years and still run a monthly mystery book club. Eager to discover board-game cafés and meet fellow strategy game enthusiasts.",
+  "can_help_with": "casting and stage-managing community theatre; hosting a board-game night"
+ },
+ {
+  "person_id": "p021",
+  "first_name": "Trevor",
+  "one_liner": "Trevor, the cycling dad",
+  "interests": [
+   "cycling",
+   "Vietnamese pho",
+   "disc golf",
+   "dad jokes"
+  ],
+  "likes": [
+   "outdoors",
+   "competitive",
+   "food"
+  ],
+  "avoids": [],
+  "modes": [
+   "friends",
+   "hobby"
+  ],
+  "neighbourhood": "River Heights",
+  "max_travel_min": 25,
+  "budget_cad": 22,
+  "group_size_pref": [
+   2,
+   6
+  ],
+  "availability": [
+   {
+    "day": "fri",
+    "start": "18:00",
+    "end": "23:00"
+   },
+   {
+    "day": "sat",
+    "start": "10:00",
+    "end": "22:00"
+   },
+   {
+    "day": "sun",
+    "start": "09:00",
+    "end": "18:00"
+   }
+  ],
+  "notes_for_agents": "Single dad with my daughter every other weekend. On my off weekends I'm free and love cycling the city trails, cheap eats, and meeting people who don't mind corny humor.",
+  "can_help_with": "cycling routes and bike repair; disc golf on a Saturday"
+ },
+ {
+  "person_id": "p022",
+  "first_name": "Harpreet",
+  "one_liner": "Harpreet, the Punjabi food and cricket lover",
+  "interests": [
+   "cricket",
+   "Punjabi cooking",
+   "Bollywood music",
+   "volleyball"
+  ],
+  "likes": [
+   "food",
+   "lively",
+   "competitive",
+   "music"
+  ],
+  "avoids": [
+   "quiet"
+  ],
+  "modes": [
+   "friends",
+   "anything"
+  ],
+  "neighbourhood": "North Kildonan",
+  "max_travel_min": 30,
+  "budget_cad": 38,
+  "group_size_pref": [
+   4,
+   10
+  ],
+  "availability": [
+   {
+    "day": "wed",
+    "start": "18:00",
+    "end": "22:00"
+   },
+   {
+    "day": "fri",
+    "start": "18:00",
+    "end": "23:00"
+   },
+   {
+    "day": "sat",
+    "start": "14:00",
+    "end": "22:00"
+   },
+   {
+    "day": "sun",
+    "start": "12:00",
+    "end": "19:00"
+   }
+  ],
+  "notes_for_agents": "Moved from Chandigarh nine months ago. Work as an accountant but my passion is cooking and cricket. Would love to find a cricket club or organize potlucks!",
+  "can_help_with": "a volleyball league to join; Punjabi cooking for a crowd"
+ },
+ {
+  "person_id": "p023",
+  "first_name": "Isaiah",
+  "one_liner": "Isaiah, the double-shift Sunday guy",
+  "interests": [
+   "R&B music",
+   "sneaker culture",
+   "Marvel movies",
+   "basketball"
+  ],
+  "likes": [
+   "lively",
+   "competitive",
+   "music"
+  ],
+  "avoids": [],
+  "modes": [
+   "friends",
+   "anything"
+  ],
+  "neighbourhood": "Corydon",
+  "max_travel_min": 20,
+  "budget_cad": 18,
+  "group_size_pref": [
+   2,
+   5
+  ],
+  "availability": [
+   {
+    "day": "sun",
+    "start": "12:00",
+    "end": "18:00"
+   }
+  ],
+  "notes_for_agents": "Work warehouse mornings and security nights - Sunday afternoon is all I've got. Looking for low-key hangouts, food, or catching a game on TV.",
+  "can_help_with": "sneaker trades and R&B DJ nights; pickup basketball"
+ },
+ {
+  "person_id": "p024",
+  "first_name": "Olga",
+  "one_liner": "Olga, the book club organizer",
+  "interests": [
+   "classic literature",
+   "board games",
+   "knitting circle",
+   "Ukrainian heritage"
+  ],
+  "likes": [
+   "creative",
+   "nerdy",
+   "quiet"
+  ],
+  "avoids": [
+   "lively",
+   "competitive"
+  ],
+  "modes": [
+   "friends",
+   "hobby"
+  ],
+  "neighbourhood": "West End",
+  "max_travel_min": 25,
+  "budget_cad": 38,
+  "group_size_pref": [
+   4,
+   8
+  ],
+  "availability": [
+   {
+    "day": "tue",
+    "start": "13:00",
+    "end": "18:00"
+   },
+   {
+    "day": "wed",
+    "start": "13:00",
+    "end": "18:00"
+   },
+   {
+    "day": "sat",
+    "start": "12:00",
+    "end": "18:00"
+   },
+   {
+    "day": "sun",
+    "start": "13:00",
+    "end": "18:00"
+   }
+  ],
+  "notes_for_agents": "Taught high school English for 32 years. My book club has been meeting for a decade and now I want to explore the board-game café scene with new friends.",
+  "can_help_with": "a knitting circle and Ukrainian recipes; organizing a monthly group that actually meets"
+ },
+ {
+  "person_id": "p025",
+  "first_name": "Tamar",
+  "one_liner": "Tamar, the indie rock nurse",
+  "interests": [
+   "indie rock shows",
+   "West End Cultural Centre concerts",
+   "guitar collecting",
+   "street art"
+  ],
+  "likes": [
+   "lively",
+   "music",
+   "creative"
+  ],
+  "avoids": [
+   "quiet"
+  ],
+  "modes": [
+   "friends",
+   "dates"
+  ],
+  "neighbourhood": "Osborne Village",
+  "max_travel_min": 20,
+  "budget_cad": 58,
+  "group_size_pref": [
+   2,
+   5
+  ],
+  "availability": [
+   {
+    "day": "tue",
+    "start": "18:00",
+    "end": "23:00"
+   },
+   {
+    "day": "wed",
+    "start": "18:00",
+    "end": "23:00"
+   },
+   {
+    "day": "sat",
+    "start": "19:00",
+    "end": "23:30"
+   },
+   {
+    "day": "sun",
+    "start": "13:00",
+    "end": "19:00"
+   }
+  ],
+  "notes_for_agents": "Pediatric nurse with rotating shifts. Skip the pleasantries - I want authentic connections with people who live for music and aren't afraid to get vulnerable.",
+  "can_help_with": "guitar repair and setup; the West End Cultural Centre's booking people"
+ },
+ {
+  "person_id": "p026",
+  "first_name": "Kwame",
+  "one_liner": "Kwame, the adventurous-palate line cook",
+  "interests": [
+   "West African cuisine",
+   "molecular gastronomy",
+   "farmers markets",
+   "wine pairing"
+  ],
+  "likes": [
+   "food",
+   "lively",
+   "creative"
+  ],
+  "avoids": [
+   "quiet"
+  ],
+  "modes": [
+   "friends",
+   "hobby"
+  ],
+  "neighbourhood": "North Kildonan",
+  "max_travel_min": 30,
+  "budget_cad": 70,
+  "group_size_pref": [
+   3,
+   7
+  ],
+  "availability": [
+   {
+    "day": "mon",
+    "start": "12:00",
+    "end": "23:00"
+   },
+   {
+    "day": "tue",
+    "start": "10:00",
+    "end": "15:00"
+   },
+   {
+    "day": "fri",
+    "start": "18:00",
+    "end": "23:00"
+   },
+   {
+    "day": "sat",
+    "start": "18:00",
+    "end": "23:00"
+   }
+  ],
+  "notes_for_agents": "Line cook at a fine dining spot, Mondays off. I want to meet adventurous eaters who'll try fermented fish, organ meats, and obscure ingredients. Let's explore the weird menu items together.",
+  "can_help_with": "West African catering for an event; farmers-market vendor contacts and wine pairing"
+ },
+ {
+  "person_id": "p027",
+  "first_name": "Brittany",
+  "one_liner": "Brittany, the Sunday-only worker",
+  "interests": [
+   "country music",
+   "baking",
+   "reality TV",
+   "thrift shopping"
+  ],
+  "likes": [
+   "lively",
+   "creative",
+   "food"
+  ],
+  "avoids": [],
+  "modes": [
+   "friends",
+   "anything"
+  ],
+  "neighbourhood": "Transcona",
+  "max_travel_min": 30,
+  "budget_cad": 16,
+  "group_size_pref": [
+   2,
+   5
+  ],
+  "availability": [
+   {
+    "day": "sun",
+    "start": "12:00",
+    "end": "18:00"
+   }
+  ],
+  "notes_for_agents": "Work warehouse days and retail nights, so Sunday afternoon is literally my only free time. Just want to meet chill people for coffee, walks, or hanging out.",
+  "can_help_with": "baking for a fundraiser; thrift-store finds"
+ },
+ {
+  "person_id": "p028",
+  "first_name": "Jasmine",
+  "one_liner": "Jasmine, the basketball coach and brewery hopper",
+  "interests": [
+   "basketball",
+   "local breweries",
+   "volleyball",
+   "sports analytics"
+  ],
+  "likes": [
+   "lively",
+   "competitive",
+   "food"
+  ],
+  "avoids": [
+   "quiet",
+   "creative"
+  ],
+  "modes": [
+   "friends",
+   "hobby"
+  ],
+  "neighbourhood": "Osborne Village",
+  "max_travel_min": 15,
+  "budget_cad": 48,
+  "group_size_pref": [
+   3,
+   6
+  ],
+  "availability": [
+   {
+    "day": "fri",
+    "start": "18:00",
+    "end": "23:00"
+   },
+   {
+    "day": "sat",
+    "start": "13:00",
+    "end": "22:00"
+   },
+   {
+    "day": "sun",
+    "start": "15:00",
+    "end": "20:00"
+   }
+  ],
+  "notes_for_agents": "Coach varsity basketball so my evenings free up after practice. Saturday afternoons are ideal for watching games at a pub or playing pickup. Love good beer and sports talk.",
+  "can_help_with": "sports analytics for a small league; brewery event contacts"
+ },
+ {
+  "person_id": "p029",
+  "first_name": "Fatima",
+  "one_liner": "Fatima, the trivia-dominating medievalist",
+  "interests": [
+   "pub trivia",
+   "medieval history",
+   "archaeology podcasts",
+   "board game cafés"
+  ],
+  "likes": [
+   "nerdy",
+   "competitive",
+   "creative"
+  ],
+  "avoids": [
+   "quiet"
+  ],
+  "modes": [
+   "friends",
+   "hobby"
+  ],
+  "neighbourhood": "Downtown",
+  "max_travel_min": 20,
+  "budget_cad": 14,
+  "group_size_pref": [
+   4,
+   8
+  ],
+  "availability": [
+   {
+    "day": "mon",
+    "start": "18:00",
+    "end": "22:00"
+   },
+   {
+    "day": "thu",
+    "start": "18:00",
+    "end": "22:00"
+   },
+   {
+    "day": "fri",
+    "start": "19:00",
+    "end": "23:00"
+   },
+   {
+    "day": "sat",
+    "start": "18:00",
+    "end": "23:00"
+   }
+  ],
+  "notes_for_agents": "MA student studying medieval Islamic history on a student budget. I'm ruthlessly competitive at trivia and love finding teams that can keep up. Will nurse one drink all night if needed.",
+  "can_help_with": "archaeology and medieval-history talks; trivia hosting"
+ },
+ {
+  "person_id": "p030",
+  "first_name": "Naveen",
+  "one_liner": "Naveen, the Star Trek-loving developer",
+  "interests": [
+   "sci-fi book clubs",
+   "pickup basketball",
+   "game development",
+   "Star Trek marathons"
+  ],
+  "likes": [
+   "nerdy",
+   "competitive",
+   "creative"
+  ],
+  "avoids": [],
+  "modes": [
+   "friends",
+   "hobby"
+  ],
+  "neighbourhood": "Fort Garry",
+  "max_travel_min": 35,
+  "budget_cad": 52,
+  "group_size_pref": [
+   3,
+   8
+  ],
+  "availability": [
+   {
+    "day": "tue",
+    "start": "18:00",
+    "end": "22:00"
+   },
+   {
+    "day": "fri",
+    "start": "18:00",
+    "end": "23:00"
+   },
+   {
+    "day": "sat",
+    "start": "09:00",
+    "end": "13:00"
+   },
+   {
+    "day": "sat",
+    "start": "18:00",
+    "end": "23:00"
+   },
+   {
+    "day": "sun",
+    "start": "12:00",
+    "end": "18:00"
+   }
+  ],
+  "notes_for_agents": "Just relocated from Calgary for a software job. Work remotely so schedule is flexible. Looking for pickup basketball games and fellow sci-fi nerds to debate Asimov vs. Clarke.",
+  "can_help_with": "game development and a Star Trek book club; pickup basketball"
+ },
+ {
+  "person_id": "p031",
+  "first_name": "Olivier",
+  "one_liner": "Olivier, the charcuterie-loving line cook",
+  "interests": [
+   "French bistro cuisine",
+   "charcuterie",
+   "cocktail bars",
+   "foraging"
+  ],
+  "likes": [
+   "food",
+   "lively",
+   "creative"
+  ],
+  "avoids": [
+   "quiet"
+  ],
+  "modes": [
+   "friends",
+   "hobby"
+  ],
+  "neighbourhood": "Tuxedo",
+  "max_travel_min": 35,
+  "budget_cad": 75,
+  "group_size_pref": [
+   3,
+   6
+  ],
+  "availability": [
+   {
+    "day": "mon",
+    "start": "12:00",
+    "end": "23:00"
+   },
+   {
+    "day": "tue",
+    "start": "10:00",
+    "end": "15:00"
+   },
+   {
+    "day": "fri",
+    "start": "18:00",
+    "end": "23:00"
+   },
+   {
+    "day": "sat",
+    "start": "18:00",
+    "end": "23:00"
+   }
+  ],
+  "notes_for_agents": "Line cook at an upscale restaurant, off Mondays and mornings. I want dining companions who'll order the sweetbreads, try raw oysters, and explore flavors most people avoid.",
+  "can_help_with": "charcuterie boards and French bistro menus for a dinner; foraging walks in season"
+ },
+ {
+  "person_id": "p032",
+  "first_name": "Rashid",
+  "one_liner": "Rashid, the undefeated trivia historian",
+  "interests": [
+   "trivia competitions",
+   "African history",
+   "spoken word poetry",
+   "strategy games"
+  ],
+  "likes": [
+   "nerdy",
+   "competitive",
+   "creative"
+  ],
+  "avoids": [
+   "quiet"
+  ],
+  "modes": [
+   "friends",
+   "hobby"
+  ],
+  "neighbourhood": "West End",
+  "max_travel_min": 30,
+  "budget_cad": 13,
+  "group_size_pref": [
+   4,
+   8
+  ],
+  "availability": [
+   {
+    "day": "tue",
+    "start": "18:00",
+    "end": "22:00"
+   },
+   {
+    "day": "wed",
+    "start": "18:00",
+    "end": "22:00"
+   },
+   {
+    "day": "fri",
+    "start": "19:00",
+    "end": "23:00"
+   },
+   {
+    "day": "sun",
+    "start": "13:00",
+    "end": "18:00"
+   }
+  ],
+  "notes_for_agents": "PhD candidate researching pre-colonial West Africa, living on stipend money. Undefeated at history trivia and always looking for new teams to join. One beer can last me three hours.",
+  "can_help_with": "spoken-word nights and a trivia team; African history reading lists"
+ },
+ {
+  "person_id": "p033",
+  "first_name": "Bianca",
+  "one_liner": "Bianca, the karaoke queen hairstylist",
+  "interests": [
+   "karaoke at the King's Head",
+   "salsa nights",
+   "drag shows",
+   "pop music"
+  ],
+  "likes": [
+   "lively",
+   "music",
+   "creative"
+  ],
+  "avoids": [
+   "quiet"
+  ],
+  "modes": [
+   "friends",
+   "anything"
+  ],
+  "neighbourhood": "St. Vital",
+  "max_travel_min": 35,
+  "budget_cad": 65,
+  "group_size_pref": [
+   4,
+   12
+  ],
+  "availability": [
+   {
+    "day": "fri",
+    "start": "19:00",
+    "end": "02:00"
+   },
+   {
+    "day": "sat",
+    "start": "19:00",
+    "end": "02:00"
+   },
+   {
+    "day": "sun",
+    "start": "12:00",
+    "end": "18:00"
+   }
+  ],
+  "notes_for_agents": "Hairstylist with weekends off and energy to burn. I live for karaoke, dance floors, and anywhere with a party vibe. If it's quiet, I'm not interested.",
+  "can_help_with": "hair and styling for a shoot or an event; karaoke-night hosting at the King's Head"
+ },
+ {
+  "person_id": "p034",
+  "first_name": "Andre",
+  "one_liner": "Andre, the hoops coach and beer enthusiast",
+  "interests": [
+   "basketball",
+   "craft beer scene",
+   "March Madness brackets",
+   "sports radio"
+  ],
+  "likes": [
+   "lively",
+   "competitive",
+   "food"
+  ],
+  "avoids": [
+   "quiet",
+   "creative"
+  ],
+  "modes": [
+   "friends",
+   "hobby"
+  ],
+  "neighbourhood": "Downtown",
+  "max_travel_min": 15,
+  "budget_cad": 46,
+  "group_size_pref": [
+   3,
+   7
+  ],
+  "availability": [
+   {
+    "day": "fri",
+    "start": "18:00",
+    "end": "23:00"
+   },
+   {
+    "day": "sat",
+    "start": "13:00",
+    "end": "22:00"
+   },
+   {
+    "day": "sun",
+    "start": "14:00",
+    "end": "19:00"
+   }
+  ],
+  "notes_for_agents": "Coach boys basketball at the high school. Saturday afternoons are perfect for watching games at a sports bar or playing pickup. Always down to debate which brewery makes the best IPA.",
+  "can_help_with": "basketball coaching; sports-radio guest spots"
+ },
+ {
+  "person_id": "p035",
+  "first_name": "Anjali",
+  "one_liner": "Anjali, the dawn birder",
+  "interests": [
+   "birdwatching",
+   "prairie wildflowers",
+   "sunrise photography",
+   "nature journaling"
+  ],
+  "likes": [
+   "outdoors",
+   "quiet",
+   "creative"
+  ],
+  "avoids": [
+   "lively"
+  ],
+  "modes": [
+   "friends",
+   "hobby"
+  ],
+  "neighbourhood": "St. Vital",
+  "max_travel_min": 35,
+  "budget_cad": 18,
+  "group_size_pref": [
+   2,
+   4
+  ],
+  "availability": [
+   {
+    "day": "sat",
+    "start": "06:00",
+    "end": "12:00"
+   },
+   {
+    "day": "sun",
+    "start": "06:00",
+    "end": "13:00"
+   }
+  ],
+  "notes_for_agents": "Up with the sun to catch the best birding hours. Would much rather walk a trail with binoculars than sit in a bar. Looking for fellow early risers who appreciate nature's quiet moments.",
+  "can_help_with": "prairie wildflower and bird walks; nature journaling for kids"
+ },
+ {
+  "person_id": "p036",
+  "first_name": "Isaac",
+  "one_liner": "Isaac, the introspective novelist",
+  "interests": [
+   "contemporary fiction",
+   "writing groups",
+   "independent bookstores",
+   "film noir"
+  ],
+  "likes": [
+   "quiet",
+   "creative"
+  ],
+  "avoids": [
+   "lively",
+   "competitive"
+  ],
+  "modes": [
+   "friends",
+   "hobby"
+  ],
+  "neighbourhood": "Downtown",
+  "max_travel_min": 20,
+  "budget_cad": 35,
+  "group_size_pref": [
+   2,
+   4
+  ],
+  "availability": [
+   {
+    "day": "wed",
+    "start": "18:00",
+    "end": "22:00"
+   },
+   {
+    "day": "fri",
+    "start": "18:00",
+    "end": "23:00"
+   },
+   {
+    "day": "sun",
+    "start": "14:00",
+    "end": "18:00"
+   }
+  ],
+  "notes_for_agents": "Working on my second novel after a decent debut. I prefer intimate conversations in quiet corners over loud venues. Best writing happens in the morning, so evenings are for connecting.",
+  "can_help_with": "editing fiction; writing groups that give real feedback"
+ },
+ {
+  "person_id": "p037",
+  "first_name": "Greg",
+  "one_liner": "Greg, the cycling single dad",
+  "interests": [
+   "cycling routes",
+   "banh mi sandwiches",
+   "disc golf",
+   "camping"
+  ],
+  "likes": [
+   "outdoors",
+   "competitive",
+   "food"
+  ],
+  "avoids": [],
+  "modes": [
+   "friends",
+   "hobby"
+  ],
+  "neighbourhood": "River Heights",
+  "max_travel_min": 25,
+  "budget_cad": 24,
+  "group_size_pref": [
+   2,
+   6
+  ],
+  "availability": [
+   {
+    "day": "fri",
+    "start": "18:00",
+    "end": "23:00"
+   },
+   {
+    "day": "sat",
+    "start": "10:00",
+    "end": "22:00"
+   },
+   {
+    "day": "sun",
+    "start": "09:00",
+    "end": "18:00"
+   }
+  ],
+  "notes_for_agents": "Single dad with my son every other weekend. On free weekends I love cycling the city, finding cheap delicious food, and meeting people who appreciate a good pun.",
+  "can_help_with": "family-friendly cycling routes; camping gear and campsite tips"
+ },
+ {
+  "person_id": "p038",
+  "first_name": "Nadia",
+  "one_liner": "Nadia, the Cold War trivia champion",
+  "interests": [
+   "trivia nights",
+   "Soviet history",
+   "political podcasts",
+   "escape rooms"
+  ],
+  "likes": [
+   "nerdy",
+   "competitive",
+   "creative"
+  ],
+  "avoids": [
+   "quiet"
+  ],
+  "modes": [
+   "friends",
+   "hobby"
+  ],
+  "neighbourhood": "North Kildonan",
+  "max_travel_min": 35,
+  "budget_cad": 11,
+  "group_size_pref": [
+   4,
+   8
+  ],
+  "availability": [
+   {
+    "day": "tue",
+    "start": "18:00",
+    "end": "22:00"
+   },
+   {
+    "day": "wed",
+    "start": "18:00",
+    "end": "22:00"
+   },
+   {
+    "day": "fri",
+    "start": "19:00",
+    "end": "23:00"
+   },
+   {
+    "day": "sun",
+    "start": "13:00",
+    "end": "18:00"
+   }
+  ],
+  "notes_for_agents": "MA student researching Cold War politics on a shoestring budget. I'm fiercely competitive at trivia - especially history and geography. Can make one drink last all evening.",
+  "can_help_with": "trivia-night hosting; Cold War and Soviet history talks"
+ },
+ {
+  "person_id": "p039",
+  "first_name": "Patricia",
+  "one_liner": "Patricia, the sci-fi book club leader",
+  "interests": [
+   "book clubs",
+   "strategy board games",
+   "historical fiction",
+   "quilting"
+  ],
+  "likes": [
+   "creative",
+   "nerdy",
+   "quiet"
+  ],
+  "avoids": [
+   "lively",
+   "competitive"
+  ],
+  "modes": [
+   "friends",
+   "hobby"
+  ],
+  "neighbourhood": "St. Vital",
+  "max_travel_min": 30,
+  "budget_cad": 42,
+  "group_size_pref": [
+   4,
+   8
+  ],
+  "availability": [
+   {
+    "day": "tue",
+    "start": "13:00",
+    "end": "18:00"
+   },
+   {
+    "day": "thu",
+    "start": "13:00",
+    "end": "18:00"
+   },
+   {
+    "day": "sat",
+    "start": "12:00",
+    "end": "18:00"
+   },
+   {
+    "day": "sun",
+    "start": "13:00",
+    "end": "18:00"
+   }
+  ],
+  "notes_for_agents": "Taught elementary school for 30 years. Been running a sci-fi/fantasy book club for ages and now I'm curious about the board-game café scene. Afternoons work best for me.",
+  "can_help_with": "leading a sci-fi book club; quilting lessons and fabric-shop contacts"
+ },
+ {
+  "person_id": "p040",
+  "first_name": "Carlos",
+  "one_liner": "Carlos, the Sunday-only hustler",
+  "interests": [
+   "reggaeton",
+   "soccer",
+   "action films",
+   "video games"
+  ],
+  "likes": [
+   "lively",
+   "competitive",
+   "music"
+  ],
+  "avoids": [],
+  "modes": [
+   "friends",
+   "anything"
+  ],
+  "neighbourhood": "West End",
+  "max_travel_min": 25,
+  "budget_cad": 19,
+  "group_size_pref": [
+   2,
+   5
+  ],
+  "availability": [
+   {
+    "day": "sun",
+    "start": "12:00",
+    "end": "18:00"
+   }
+  ],
+  "notes_for_agents": "Work warehouse mornings and pizza delivery nights - Sunday afternoon is my only break. Looking for easy hangouts, maybe watch a game or grab food with chill people.",
+  "can_help_with": "a pickup soccer game and a Latin-music playlist"
+ },
+ {
+  "person_id": "p041",
+  "first_name": "Rielle",
+  "one_liner": "Rielle, the blues-loving ER nurse",
+  "interests": [
+   "country music festivals",
+   "live blues",
+   "vintage guitars",
+   "motorcycle culture"
+  ],
+  "likes": [
+   "lively",
+   "music",
+   "creative"
+  ],
+  "avoids": [
+   "quiet"
+  ],
+  "modes": [
+   "friends",
+   "dates"
+  ],
+  "neighbourhood": "Transcona",
+  "max_travel_min": 40,
+  "budget_cad": 53,
+  "group_size_pref": [
+   2,
+   6
+  ],
+  "availability": [
+   {
+    "day": "mon",
+    "start": "18:00",
+    "end": "23:00"
+   },
+   {
+    "day": "wed",
+    "start": "18:00",
+    "end": "23:00"
+   },
+   {
+    "day": "fri",
+    "start": "19:00",
+    "end": "23:30"
+   },
+   {
+    "day": "sun",
+    "start": "13:00",
+    "end": "18:00"
+   }
+  ],
+  "notes_for_agents": "ER nurse with rotating shifts. Small talk is torture - I'd rather jump straight into what music moves you, what you're passionate about, the real stuff that matters.",
+  "can_help_with": "vintage-guitar valuations; blues jams and motorcycle rides"
+ },
+ {
+  "person_id": "p042",
+  "first_name": "Jada",
+  "one_liner": "Jada, the dance floor hairstylist",
+  "interests": [
+   "karaoke bars",
+   "EDM nights",
+   "dance clubs",
+   "house parties"
+  ],
+  "likes": [
+   "lively",
+   "music",
+   "creative"
+  ],
+  "avoids": [
+   "quiet"
+  ],
+  "modes": [
+   "friends",
+   "anything"
+  ],
+  "neighbourhood": "Fort Garry",
+  "max_travel_min": 30,
+  "budget_cad": 70,
+  "group_size_pref": [
+   4,
+   12
+  ],
+  "availability": [
+   {
+    "day": "fri",
+    "start": "19:00",
+    "end": "02:00"
+   },
+   {
+    "day": "sat",
+    "start": "19:00",
+    "end": "02:00"
+   },
+   {
+    "day": "sun",
+    "start": "12:00",
+    "end": "18:00"
+   }
+  ],
+  "notes_for_agents": "Hairstylist who lives for the weekend. I want loud music, packed dance floors, and people who aren't afraid to belt out karaoke at 1am. If it's not high-energy, count me out.",
+  "can_help_with": "DJ contacts for a party; dance-floor energy"
+ },
+ {
+  "person_id": "p043",
+  "first_name": "Ben",
+  "one_liner": "Ben, the taco-hunting cyclist dad",
+  "interests": [
+   "cycling trails",
+   "taco trucks",
+   "ultimate frisbee",
+   "craft beer on a budget"
+  ],
+  "likes": [
+   "outdoors",
+   "competitive",
+   "food"
+  ],
+  "avoids": [],
+  "modes": [
+   "friends",
+   "hobby"
+  ],
+  "neighbourhood": "Wolseley",
+  "max_travel_min": 20,
+  "budget_cad": 26,
+  "group_size_pref": [
+   2,
+   6
+  ],
+  "availability": [
+   {
+    "day": "fri",
+    "start": "18:00",
+    "end": "23:00"
+   },
+   {
+    "day": "sat",
+    "start": "10:00",
+    "end": "22:00"
+   },
+   {
+    "day": "sun",
+    "start": "09:00",
+    "end": "18:00"
+   }
+  ],
+  "notes_for_agents": "Single dad with my daughter every other weekend. Free weekends I'm all about cycling the city, finding the best cheap eats, and meeting people who enjoy bad puns as much as I do.",
+  "can_help_with": "cycling trails with kids; taco-truck and ultimate-frisbee crowds"
+ },
+ {
+  "person_id": "p044",
+  "first_name": "Jade",
+  "one_liner": "Jade, the nose-to-tail line cook",
+  "interests": [
+   "Southeast Asian cuisine",
+   "nose-to-tail cooking",
+   "natural wine",
+   "food history"
+  ],
+  "likes": [
+   "food",
+   "lively",
+   "creative"
+  ],
+  "avoids": [
+   "quiet"
+  ],
+  "modes": [
+   "friends",
+   "hobby",
+   "dates"
+  ],
+  "neighbourhood": "Tuxedo",
+  "max_travel_min": 35,
+  "budget_cad": 80,
+  "group_size_pref": [
+   3,
+   6
+  ],
+  "availability": [
+   {
+    "day": "mon",
+    "start": "12:00",
+    "end": "23:00"
+   },
+   {
+    "day": "tue",
+    "start": "10:00",
+    "end": "15:00"
+   },
+   {
+    "day": "fri",
+    "start": "18:00",
+    "end": "23:00"
+   },
+   {
+    "day": "sat",
+    "start": "18:00",
+    "end": "23:00"
+   }
+  ],
+  "notes_for_agents": "Line cook at a modern Asian fusion place, off Mondays. Looking for adventurous eaters who'll try chicken feet, durian, fermented anything, and the weird specials nobody else orders.",
+  "can_help_with": "Southeast Asian menus and natural-wine pairings for a dinner; nose-to-tail butchery basics"
+ },
+ {
+  "person_id": "p045",
+  "first_name": "Mateo",
+  "one_liner": "Mateo, the folk-music nurse",
+  "interests": [
+   "folk music at the WECC",
+   "open mic nights",
+   "local bands",
+   "music journalism"
+  ],
+  "likes": [
+   "lively",
+   "music",
+   "creative"
+  ],
+  "avoids": [
+   "quiet"
+  ],
+  "modes": [
+   "friends",
+   "dates"
+  ],
+  "neighbourhood": "West End",
+  "max_travel_min": 20,
+  "budget_cad": 56,
+  "group_size_pref": [
+   2,
+   5
+  ],
+  "availability": [
+   {
+    "day": "tue",
+    "start": "18:00",
+    "end": "23:00"
+   },
+   {
+    "day": "thu",
+    "start": "18:00",
+    "end": "23:00"
+   },
+   {
+    "day": "sat",
+    "start": "19:00",
+    "end": "23:30"
+   },
+   {
+    "day": "sun",
+    "start": "13:00",
+    "end": "18:00"
+   }
+  ],
+  "notes_for_agents": "Oncology nurse with rotating shifts. Skip the weather talk - I want to connect over the songs that changed your life, not discuss the forecast. Real conversations only.",
+  "can_help_with": "open-mic hosting at the WECC; writing about local bands"
+ },
+ {
+  "person_id": "p046",
+  "first_name": "Simone",
+  "one_liner": "Simone, the watercolor illustrator",
+  "interests": [
+   "urban sketching",
+   "gallery openings at Plug In ICA",
+   "zine making",
+   "watercolor painting"
+  ],
+  "likes": [
+   "creative",
+   "quiet",
+   "nerdy"
+  ],
+  "avoids": [
+   "competitive",
+   "lively"
+  ],
+  "modes": [
+   "friends",
+   "hobby"
+  ],
+  "neighbourhood": "Wolseley",
+  "max_travel_min": 15,
+  "budget_cad": 38,
+  "group_size_pref": [
+   3,
+   6
+  ],
+  "availability": [
+   {
+    "day": "thu",
+    "start": "18:00",
+    "end": "22:00"
+   },
+   {
+    "day": "fri",
+    "start": "18:00",
+    "end": "23:00"
+   },
+   {
+    "day": "sat",
+    "start": "13:00",
+    "end": "18:00"
+   },
+   {
+    "day": "sun",
+    "start": "12:00",
+    "end": "18:00"
+   }
+  ],
+  "notes_for_agents": "Freelance illustrator working from home. Would love to organize sketching sessions at cafés, parks, or explore First Fridays gallery nights with fellow artists and creatives.",
+  "can_help_with": "watercolour illustration, a logo or a zine; the Plug In ICA gallery crowd and where to print"
+ },
+ {
+  "person_id": "p047",
+  "first_name": "Evelyn",
+  "one_liner": "Evelyn, the early-morning birder",
+  "interests": [
+   "birdwatching",
+   "hiking at Birds Hill",
+   "nature sketching",
+   "wildlife photography"
+  ],
+  "likes": [
+   "outdoors",
+   "quiet",
+   "creative"
+  ],
+  "avoids": [
+   "lively"
+  ],
+  "modes": [
+   "friends",
+   "hobby"
+  ],
+  "neighbourhood": "St. Vital",
+  "max_travel_min": 40,
+  "budget_cad": 22,
+  "group_size_pref": [
+   2,
+   4
+  ],
+  "availability": [
+   {
+    "day": "sat",
+    "start": "06:00",
+    "end": "12:00"
+   },
+   {
+    "day": "sun",
+    "start": "06:00",
+    "end": "13:00"
+   }
+  ],
+  "notes_for_agents": "Early bird who prefers dawn walks and trail hikes to nightlife. Looking for fellow nature lovers who appreciate quiet mornings with binoculars over loud bars.",
+  "can_help_with": "birding at Birds Hill; wildlife photography tips"
+ },
+ {
+  "person_id": "p048",
+  "first_name": "Chinwe",
+  "one_liner": "Chinwe, the jollof-cooking cricket fan",
+  "interests": [
+   "cricket",
+   "Nigerian cuisine",
+   "Afrobeats",
+   "potluck dinners"
+  ],
+  "likes": [
+   "food",
+   "lively",
+   "competitive",
+   "music"
+  ],
+  "avoids": [
+   "quiet"
+  ],
+  "modes": [
+   "friends",
+   "anything"
+  ],
+  "neighbourhood": "Tuxedo",
+  "max_travel_min": 35,
+  "budget_cad": 42,
+  "group_size_pref": [
+   4,
+   10
+  ],
+  "availability": [
+   {
+    "day": "wed",
+    "start": "18:00",
+    "end": "22:00"
+   },
+   {
+    "day": "fri",
+    "start": "18:00",
+    "end": "23:00"
+   },
+   {
+    "day": "sat",
+    "start": "14:00",
+    "end": "22:00"
+   },
+   {
+    "day": "sun",
+    "start": "12:00",
+    "end": "19:00"
+   }
+  ],
+  "notes_for_agents": "Moved from Lagos seven months ago. Work as an accountant but my passion is cooking jollof rice and finding people to play cricket with. Love organizing group dinners!",
+  "can_help_with": "Nigerian catering for a potluck; a cricket team and Afrobeats playlists"
+ },
+ {
+  "person_id": "p049",
+  "first_name": "Liam",
+  "one_liner": "Liam, the Le Guin-reading developer",
+  "interests": [
+   "sci-fi book clubs",
+   "pickup basketball",
+   "coding meetups",
+   "trivia nights"
+  ],
+  "likes": [
+   "nerdy",
+   "competitive",
+   "creative"
+  ],
+  "avoids": [],
+  "modes": [
+   "friends",
+   "hobby"
+  ],
+  "neighbourhood": "West End",
+  "max_travel_min": 25,
+  "budget_cad": 48,
+  "group_size_pref": [
+   3,
+   8
+  ],
+  "availability": [
+   {
+    "day": "tue",
+    "start": "18:00",
+    "end": "22:00"
+   },
+   {
+    "day": "fri",
+    "start": "18:00",
+    "end": "23:00"
+   },
+   {
+    "day": "sat",
+    "start": "09:00",
+    "end": "13:00"
+   },
+   {
+    "day": "sat",
+    "start": "18:00",
+    "end": "23:00"
+   },
+   {
+    "day": "sun",
+    "start": "12:00",
+    "end": "18:00"
+   }
+  ],
+  "notes_for_agents": "Just moved from Montreal for a dev job. Remote work gives me flexibility. Looking for pickup basketball and people to debate whether Ursula K. Le Guin or Philip K. Dick is the GOAT.",
+  "can_help_with": "coding meetups and code review on a side project; sci-fi book clubs"
+ },
+ {
+  "person_id": "p050",
+  "first_name": "Shayna",
+  "one_liner": "Shayna, the hoops coach and beer scout",
+  "interests": [
+   "basketball",
+   "microbreweries",
+   "playoff basketball",
+   "coaching clinics"
+  ],
+  "likes": [
+   "lively",
+   "competitive",
+   "food"
+  ],
+  "avoids": [
+   "quiet",
+   "creative"
+  ],
+  "modes": [
+   "friends",
+   "hobby"
+  ],
+  "neighbourhood": "West End",
+  "max_travel_min": 20,
+  "budget_cad": 44,
+  "group_size_pref": [
+   3,
+   6
+  ],
+  "availability": [
+   {
+    "day": "fri",
+    "start": "18:00",
+    "end": "23:00"
+   },
+   {
+    "day": "sat",
+    "start": "13:00",
+    "end": "22:00"
+   },
+   {
+    "day": "sun",
+    "start": "15:00",
+    "end": "20:00"
+   }
+  ],
+  "notes_for_agents": "Coach girls basketball at the high school level. Saturday afternoons are perfect for watching games at a pub or shooting hoops. Always trying to find the next great local brewery.",
+  "can_help_with": "basketball coaching clinics; microbrewery tours"
+ },
+ {
+  "person_id": "p051",
+  "first_name": "Zara",
+  "one_liner": "Zara, the hip-hop loving cardiac nurse",
+  "interests": [
+   "hip-hop shows",
+   "electronic music",
+   "concert photography",
+   "DJ culture"
+  ],
+  "likes": [
+   "lively",
+   "music",
+   "creative"
+  ],
+  "avoids": [
+   "quiet"
+  ],
+  "modes": [
+   "friends",
+   "dates"
+  ],
+  "neighbourhood": "Transcona",
+  "max_travel_min": 40,
+  "budget_cad": 54,
+  "group_size_pref": [
+   2,
+   6
+  ],
+  "availability": [
+   {
+    "day": "mon",
+    "start": "18:00",
+    "end": "23:00"
+   },
+   {
+    "day": "wed",
+    "start": "18:00",
+    "end": "23:00"
+   },
+   {
+    "day": "fri",
+    "start": "19:00",
+    "end": "23:30"
+   },
+   {
+    "day": "sun",
+    "start": "13:00",
+    "end": "19:00"
+   }
+  ],
+  "notes_for_agents": "Cardiac nurse working rotating shifts. Small talk makes me want to scream - let's skip straight to what music makes you feel alive and what you actually care about.",
+  "can_help_with": "concert photography and DJ contacts; cardiac-health talks at community events"
+ },
+ {
+  "person_id": "p052",
+  "first_name": "Paul",
+  "one_liner": "Paul, the dawn trail walker",
+  "interests": [
+   "birdwatching at Assiniboine Forest",
+   "hiking",
+   "nature conservation",
+   "binoculars and field guides"
+  ],
+  "likes": [
+   "outdoors",
+   "quiet",
+   "creative"
+  ],
+  "avoids": [
+   "lively"
+  ],
+  "modes": [
+   "friends",
+   "hobby"
+  ],
+  "neighbourhood": "West End",
+  "max_travel_min": 30,
+  "budget_cad": 20,
+  "group_size_pref": [
+   2,
+   4
+  ],
+  "availability": [
+   {
+    "day": "sat",
+    "start": "06:00",
+    "end": "12:00"
+   },
+   {
+    "day": "sun",
+    "start": "06:00",
+    "end": "13:00"
+   }
+  ],
+  "notes_for_agents": "Up at dawn to catch the best birding hours. I'd much rather spend a morning on a trail than an evening in a bar. Looking for fellow early risers who love quiet nature walks.",
+  "can_help_with": "guided nature walks in Assiniboine Forest; binoculars and field-guide advice"
+ },
+ {
+  "person_id": "p053",
+  "first_name": "Mira",
+  "one_liner": "Mira, the fermentation-obsessed line cook",
+  "interests": [
+   "Middle Eastern cuisine",
+   "pickling and fermenting",
+   "natural wine bars",
+   "culinary travel"
+  ],
+  "likes": [
+   "food",
+   "lively",
+   "creative"
+  ],
+  "avoids": [
+   "quiet"
+  ],
+  "modes": [
+   "friends",
+   "hobby"
+  ],
+  "neighbourhood": "Downtown",
+  "max_travel_min": 15,
+  "budget_cad": 68,
+  "group_size_pref": [
+   3,
+   7
+  ],
+  "availability": [
+   {
+    "day": "mon",
+    "start": "12:00",
+    "end": "23:00"
+   },
+   {
+    "day": "tue",
+    "start": "10:00",
+    "end": "15:00"
+   },
+   {
+    "day": "fri",
+    "start": "18:00",
+    "end": "23:00"
+   },
+   {
+    "day": "sat",
+    "start": "18:00",
+    "end": "23:00"
+   }
+  ],
+  "notes_for_agents": "Line cook at a contemporary restaurant, off Mondays. Want to meet people who'll order the lamb tongue, try fermented vegetables, and explore the strangest items on any menu.",
+  "can_help_with": "Middle Eastern catering and fermentation workshops; natural-wine bar contacts"
+ },
+ {
+  "person_id": "p054",
+  "first_name": "Chantal",
+  "one_liner": "Chantal, the 80s karaoke hairstylist",
+  "interests": [
+   "karaoke nights",
+   "Latin dancing",
+   "club hopping",
+   "80s nights"
+  ],
+  "likes": [
+   "lively",
+   "music",
+   "creative"
+  ],
+  "avoids": [
+   "quiet"
+  ],
+  "modes": [
+   "friends",
+   "anything"
+  ],
+  "neighbourhood": "River Heights",
+  "max_travel_min": 25,
+  "budget_cad": 62,
+  "group_size_pref": [
+   4,
+   12
+  ],
+  "availability": [
+   {
+    "day": "fri",
+    "start": "19:00",
+    "end": "02:00"
+   },
+   {
+    "day": "sat",
+    "start": "19:00",
+    "end": "02:00"
+   },
+   {
+    "day": "sun",
+    "start": "12:00",
+    "end": "18:00"
+   }
+  ],
+  "notes_for_agents": "Hairstylist who saves all my energy for the weekend. I live for karaoke mics, packed dance floors, and places where the music is so loud you have to shout. Quiet nights are not my thing.",
+  "can_help_with": "80s karaoke and Latin-dance nights; hair for a wedding"
+ },
+ {
+  "person_id": "p055",
+  "first_name": "Tomas",
+  "one_liner": "Tomas, the offal-loving line cook",
+  "interests": [
+   "Filipino fusion",
+   "offal cooking",
+   "sake pairing",
+   "food pop-ups"
+  ],
+  "likes": [
+   "food",
+   "lively",
+   "creative"
+  ],
+  "avoids": [
+   "quiet"
+  ],
+  "modes": [
+   "friends",
+   "hobby"
+  ],
+  "neighbourhood": "St. Vital",
+  "max_travel_min": 35,
+  "budget_cad": 58,
+  "group_size_pref": [
+   3,
+   6
+  ],
+  "availability": [
+   {
+    "day": "mon",
+    "start": "12:00",
+    "end": "23:00"
+   },
+   {
+    "day": "tue",
+    "start": "10:00",
+    "end": "15:00"
+   },
+   {
+    "day": "fri",
+    "start": "18:00",
+    "end": "23:00"
+   },
+   {
+    "day": "sat",
+    "start": "18:00",
+    "end": "23:00"
+   }
+  ],
+  "notes_for_agents": "Line cook at a farm-to-table spot, off Mondays. Looking for adventurous eaters who'll try tripe, blood sausage, uni, and whatever weird special the chef is testing. No picky eaters, please.",
+  "can_help_with": "Filipino fusion pop-ups; sake pairings and food pop-up logistics"
+ },
+ {
+  "person_id": "p056",
+  "first_name": "Janice",
+  "one_liner": "Janice, the Sunday-only double-shifter",
+  "interests": [
+   "gospel music",
+   "word search puzzles",
+   "rom-coms",
+   "coffee shops"
+  ],
+  "likes": [
+   "lively",
+   "creative",
+   "food"
+  ],
+  "avoids": [],
+  "modes": [
+   "friends",
+   "anything"
+  ],
+  "neighbourhood": "Transcona",
+  "max_travel_min": 30,
+  "budget_cad": 17,
+  "group_size_pref": [
+   2,
+   5
+  ],
+  "availability": [
+   {
+    "day": "sun",
+    "start": "12:00",
+    "end": "18:00"
+   }
+  ],
+  "notes_for_agents": "Work warehouse days and gas station nights - Sunday afternoon is literally all I have. Just want to meet nice people for coffee, a walk, or hanging out somewhere low-key.",
+  "can_help_with": "gospel-choir contacts; puzzle nights at a coffee shop"
+ },
+ {
+  "person_id": "p057",
+  "first_name": "Adrian",
+  "one_liner": "Adrian, the group-setting dater",
+  "interests": [
+   "board game cafés",
+   "pub trivia",
+   "comedy shows",
+   "book clubs"
+  ],
+  "likes": [
+   "nerdy",
+   "creative",
+   "quiet"
+  ],
+  "avoids": [],
+  "modes": [
+   "dates",
+   "friends"
+  ],
+  "neighbourhood": "Corydon",
+  "max_travel_min": 20,
+  "budget_cad": 35,
+  "group_size_pref": [
+   4,
+   8
+  ],
+  "availability": [
+   {
+    "day": "thu",
+    "start": "18:00",
+    "end": "21:30"
+   },
+   {
+    "day": "fri",
+    "start": "18:00",
+    "end": "22:00"
+   },
+   {
+    "day": "sat",
+    "start": "18:00",
+    "end": "22:00"
+   },
+   {
+    "day": "sun",
+    "start": "14:00",
+    "end": "18:00"
+   }
+  ],
+  "notes_for_agents": "Haven't dated much and honestly find one-on-one first dates terrifying. Much more comfortable in group settings where there's an activity and less pressure. Open to meeting new people gradually.",
+  "can_help_with": "board-game café nights for groups; comedy-show tickets and trivia teams"
+ },
+ {
+  "person_id": "p058",
+  "first_name": "Felix",
+  "one_liner": "Felix, the shoegaze-loving psych nurse",
+  "interests": [
+   "indie concerts at the Park Theatre",
+   "shoegaze music",
+   "vinyl hunting",
+   "band merch collecting"
+  ],
+  "likes": [
+   "lively",
+   "music",
+   "creative"
+  ],
+  "avoids": [
+   "quiet"
+  ],
+  "modes": [
+   "friends",
+   "dates"
+  ],
+  "neighbourhood": "Osborne Village",
+  "max_travel_min": 15,
+  "budget_cad": 57,
+  "group_size_pref": [
+   2,
+   5
+  ],
+  "availability": [
+   {
+    "day": "tue",
+    "start": "18:00",
+    "end": "23:00"
+   },
+   {
+    "day": "wed",
+    "start": "18:00",
+    "end": "23:00"
+   },
+   {
+    "day": "sat",
+    "start": "19:00",
+    "end": "23:30"
+   },
+   {
+    "day": "sun",
+    "start": "13:00",
+    "end": "19:00"
+   }
+  ],
+  "notes_for_agents": "Psych nurse with rotating shifts. Can't stand small talk about jobs and weather - I want to talk about the last show that blew your mind or the album that saved your life.",
+  "can_help_with": "indie-concert tips and vinyl hunting; a calm nurse's take on a hard week"
+ },
+ {
+  "person_id": "p059",
+  "first_name": "Rochelle",
+  "one_liner": "Rochelle, the basketball coach and IPA hunter",
+  "interests": [
+   "basketball",
+   "brewery tours",
+   "NBA playoffs",
+   "volleyball leagues"
+  ],
+  "likes": [
+   "lively",
+   "competitive",
+   "food"
+  ],
+  "avoids": [
+   "quiet",
+   "creative"
+  ],
+  "modes": [
+   "friends",
+   "hobby"
+  ],
+  "neighbourhood": "Exchange District",
+  "max_travel_min": 20,
+  "budget_cad": 49,
+  "group_size_pref": [
+   3,
+   7
+  ],
+  "availability": [
+   {
+    "day": "fri",
+    "start": "18:00",
+    "end": "23:00"
+   },
+   {
+    "day": "sat",
+    "start": "13:00",
+    "end": "22:00"
+   },
+   {
+    "day": "sun",
+    "start": "14:00",
+    "end": "19:00"
+   }
+  ],
+  "notes_for_agents": "Coach varsity basketball so evenings clear up after 5pm. Saturday afternoons are ideal for watching games at a sports bar or running pickup. Always hunting for the next great local IPA.",
+  "can_help_with": "basketball coaching and volleyball leagues; brewery tours and NBA watch parties"
+ }
+]

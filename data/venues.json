@@ -1,0 +1,366 @@
+[
+ {
+  "venue_id": "across-the-board",
+  "name": "Across the Board Game Café",
+  "neighbourhood": "Exchange District",
+  "vibes": [
+   "nerdy",
+   "quiet",
+   "competitive"
+  ],
+  "capacity_hint": 8,
+  "price_level": 1,
+  "address": "211 Bannatyne Ave, Winnipeg",
+  "why": "Hundreds of board games, quiet rooms, cheap, nobody has to talk about work",
+  "flags": [
+   "quiet"
+  ]
+ },
+ {
+  "venue_id": "forth",
+  "name": "Forth Café & Bar",
+  "neighbourhood": "Exchange District",
+  "vibes": [
+   "creative",
+   "quiet",
+   "food"
+  ],
+  "capacity_hint": 6,
+  "price_level": 2,
+  "address": "171 McDermot Ave, Winnipeg",
+  "why": "Coffee by day, cocktails by night, easy for a first meet",
+  "flags": [
+   "alcohol",
+   "quiet"
+  ]
+ },
+ {
+  "venue_id": "the-forks-market",
+  "name": "The Forks Market",
+  "neighbourhood": "The Forks",
+  "vibes": [
+   "food",
+   "lively",
+   "outdoors"
+  ],
+  "capacity_hint": 12,
+  "price_level": 2,
+  "address": "1 Forks Market Rd, Winnipeg",
+  "why": "Everyone can pick their own food, big communal tables, river walk after",
+  "flags": [
+   "loud"
+  ]
+ },
+ {
+  "venue_id": "assiniboine-park",
+  "name": "Assiniboine Park (Leo Mol Sculpture Garden)",
+  "neighbourhood": "Tuxedo",
+  "vibes": [
+   "outdoors",
+   "quiet"
+  ],
+  "capacity_hint": 10,
+  "price_level": 1,
+  "address": "55 Pavilion Cres, Winnipeg",
+  "why": "Free, walkable, good for a slow Sunday group",
+  "flags": [
+   "quiet"
+  ]
+ },
+ {
+  "venue_id": "kings-head",
+  "name": "The King's Head Pub",
+  "neighbourhood": "Exchange District",
+  "vibes": [
+   "lively",
+   "music",
+   "food"
+  ],
+  "capacity_hint": 10,
+  "price_level": 2,
+  "address": "120 King St, Winnipeg",
+  "why": "Pub trivia Tuesdays, live music weekends, loud in a good way",
+  "flags": [
+   "alcohol",
+   "loud"
+  ]
+ },
+ {
+  "venue_id": "burton-cummings",
+  "name": "Burton Cummings Theatre",
+  "neighbourhood": "Downtown",
+  "vibes": [
+   "music",
+   "lively"
+  ],
+  "capacity_hint": 6,
+  "price_level": 3,
+  "address": "364 Smith St, Winnipeg",
+  "why": "Concerts; the agent checks the listing and forms a group around a show",
+  "flags": [
+   "alcohol",
+   "loud"
+  ]
+ },
+ {
+  "venue_id": "wag-qaumajuq",
+  "name": "Winnipeg Art Gallery – Qaumajuq",
+  "neighbourhood": "Downtown",
+  "vibes": [
+   "creative",
+   "quiet"
+  ],
+  "capacity_hint": 8,
+  "price_level": 2,
+  "address": "300 Memorial Blvd, Winnipeg",
+  "why": "Inuit art centre, Friday late openings, conversation starters everywhere",
+  "flags": [
+   "quiet"
+  ]
+ },
+ {
+  "venue_id": "duke-of-kent",
+  "name": "Duke of Kent Legion (Bingo Night)",
+  "neighbourhood": "St. Boniface",
+  "vibes": [
+   "lively",
+   "competitive"
+  ],
+  "capacity_hint": 12,
+  "price_level": 1,
+  "address": "227 Marion St, Winnipeg",
+  "why": "Ironic bingo, cheapest night out in the city, wildly mixed crowd",
+  "flags": [
+   "alcohol",
+   "loud"
+  ]
+ },
+ {
+  "venue_id": "clementine",
+  "name": "Clementine",
+  "neighbourhood": "Exchange District",
+  "vibes": [
+   "food",
+   "creative"
+  ],
+  "capacity_hint": 6,
+  "price_level": 3,
+  "address": "123 Princess St, Winnipeg",
+  "why": "Brunch worth waking up for; good for a smaller Sunday group",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "venue_id": "sargent-sundae",
+  "name": "Sargent Sundae",
+  "neighbourhood": "Wolseley",
+  "vibes": [
+   "food",
+   "outdoors",
+   "quiet"
+  ],
+  "capacity_hint": 8,
+  "price_level": 1,
+  "address": "2053 Portage Ave, Winnipeg",
+  "why": "Ice cream then a walk in Assiniboine Park; zero pressure",
+  "flags": [
+   "quiet"
+  ]
+ },
+ {
+  "venue_id": "bike-fest",
+  "name": "Assiniboine Park Bike Loop",
+  "neighbourhood": "Tuxedo",
+  "vibes": [
+   "outdoors",
+   "competitive"
+  ],
+  "capacity_hint": 8,
+  "price_level": 1,
+  "address": "Assiniboine Park, Winnipeg",
+  "why": "Saturday morning group ride, all paces",
+  "flags": []
+ },
+ {
+  "venue_id": "pickup-bball-sargent",
+  "name": "Sargent Park Courts",
+  "neighbourhood": "West End",
+  "vibes": [
+   "competitive",
+   "outdoors"
+  ],
+  "capacity_hint": 10,
+  "price_level": 1,
+  "address": "Sargent Park, Winnipeg",
+  "why": "Pickup basketball; the agent fills a 5-on-5",
+  "flags": []
+ },
+ {
+  "venue_id": "mcnally",
+  "name": "McNally Robinson Booksellers (Grant Park)",
+  "neighbourhood": "Grant Park",
+  "vibes": [
+   "nerdy",
+   "quiet",
+   "creative"
+  ],
+  "capacity_hint": 8,
+  "price_level": 1,
+  "address": "1120 Grant Ave, Winnipeg",
+  "why": "Author events and a café; the agent forms a group around a reading",
+  "flags": [
+   "quiet"
+  ]
+ },
+ {
+  "venue_id": "nonsuch",
+  "name": "Nonsuch Brewing Co.",
+  "neighbourhood": "Exchange District",
+  "vibes": [
+   "lively",
+   "food",
+   "creative"
+  ],
+  "capacity_hint": 10,
+  "price_level": 2,
+  "address": "125 Pacific Ave, Winnipeg",
+  "why": "Big tables, Belgian beer, easy to add one more person",
+  "flags": [
+   "alcohol",
+   "loud"
+  ]
+ },
+ {
+  "venue_id": "kildonan-park-trail",
+  "name": "Kildonan Park Trails",
+  "neighbourhood": "North Kildonan",
+  "vibes": [
+   "outdoors",
+   "quiet"
+  ],
+  "capacity_hint": 8,
+  "price_level": 1,
+  "address": "2015 Main St, Winnipeg",
+  "why": "Evening walk along the Red River; good for low-energy weeks",
+  "flags": [
+   "quiet"
+  ]
+ },
+ {
+  "venue_id": "rec-room",
+  "name": "The Rec Room",
+  "neighbourhood": "Polo Park",
+  "vibes": [
+   "lively",
+   "competitive",
+   "food"
+  ],
+  "capacity_hint": 12,
+  "price_level": 2,
+  "address": "1401 St Matthews Ave, Winnipeg",
+  "why": "Arcade, axe throwing, big groups, loud",
+  "flags": [
+   "alcohol",
+   "loud"
+  ]
+ },
+ {
+  "venue_id": "times-changed",
+  "name": "Times Change(d) High & Lonesome Club",
+  "neighbourhood": "Downtown",
+  "vibes": [
+   "music",
+   "quiet"
+  ],
+  "capacity_hint": 80,
+  "price_level": 1,
+  "address": "234 Main St",
+  "why": "A small listening room: blues, roots and jazz most nights, cheap cover, people who came for the music and stay seated",
+  "flags": [
+   "alcohol",
+   "loud"
+  ]
+ },
+ {
+  "venue_id": "cinematheque",
+  "name": "Dave Barber Cinematheque",
+  "neighbourhood": "Exchange District",
+  "vibes": [
+   "quiet",
+   "creative"
+  ],
+  "capacity_hint": 90,
+  "price_level": 1,
+  "address": "100 Arthur St",
+  "why": "Repertory and festival films with a lobby that empties into the Exchange's cafés; a quiet night with something to talk about after",
+  "flags": [
+   "quiet"
+  ]
+ },
+ {
+  "venue_id": "handsome-daughter",
+  "name": "The Handsome Daughter",
+  "neighbourhood": "West End",
+  "vibes": [
+   "music",
+   "lively",
+   "creative"
+  ],
+  "capacity_hint": 120,
+  "price_level": 1,
+  "address": "61 Sherbrook St",
+  "why": "Local bands, DJ nights and a big patio; the West End's living room for anyone into music",
+  "flags": [
+   "alcohol",
+   "loud"
+  ]
+ },
+ {
+  "venue_id": "thom-bargen",
+  "name": "Thom Bargen Coffee",
+  "neighbourhood": "Wolseley",
+  "vibes": [
+   "quiet",
+   "creative",
+   "food"
+  ],
+  "capacity_hint": 30,
+  "price_level": 1,
+  "address": "64 Sherbrook St",
+  "why": "Daytime and early-evening coffee with room for a small table; good for readers, writers and first meetings",
+  "flags": [
+   "quiet"
+  ]
+ },
+ {
+  "venue_id": "squash-winnipeg",
+  "name": "Winnipeg Squash Racquet Club (drop-in)",
+  "neighbourhood": "Wolseley",
+  "vibes": [
+   "competitive",
+   "outdoors"
+  ],
+  "capacity_hint": 16,
+  "price_level": 2,
+  "address": "200 Wellington Cres",
+  "why": "Drop-in squash and racquet sports for people who'd rather sweat than sit; courts book by the hour",
+  "flags": []
+ },
+ {
+  "venue_id": "online",
+  "name": "Video call (online)",
+  "neighbourhood": "Online",
+  "vibes": [
+   "quiet",
+   "focused"
+  ],
+  "capacity_hint": 4,
+  "price_level": 0,
+  "address": "",
+  "why": "An introduction that needs no room: a video call on the person's own tool, at a time both agree",
+  "flags": [
+   "accessible"
+  ]
+ }
+]

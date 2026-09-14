@@ -1,0 +1,114 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>Cahoots architecture</title>
+<style>
+  body{margin:0;background:#faf7f2;font:15px/1.4 -apple-system,Segoe UI,Helvetica,Arial,sans-serif;color:#1a1a1a}
+  svg{display:block}
+  .box{fill:#fff;stroke:#c9c2b6;stroke-width:1.5;rx:12}
+  .aws{fill:#fff7ee;stroke:#e0a06a}
+  .agent{fill:#eef6f2;stroke:#5fa382}
+  .human{fill:#fdf0ea;stroke:#c8501f}
+  .t{font-size:15px;font-weight:600}
+  .s{font-size:12.5px;fill:#5d574f}
+  .lab{font-size:12px;fill:#5d574f}
+  .arrow{stroke:#7a736a;stroke-width:1.6;fill:none;marker-end:url(#m)}
+  .a2a{stroke:#5fa382;stroke-width:2;stroke-dasharray:6 4}
+  .title{font-size:22px;font-weight:700}
+  .sub{font-size:13px;fill:#5d574f}
+</style>
+<svg width="1400" height="820" viewBox="0 0 1400 820" xmlns="http://www.w3.org/2000/svg">
+  <defs><marker id="m" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#7a736a"/></marker></defs>
+  <text x="40" y="48" class="title">Cahoots: one agent per person, agents talk and remember, humans decide</text>
+  <text x="40" y="72" class="sub">Strands Agents SDK on Amazon Bedrock, deployed on Amazon Bedrock AgentCore. Solid arrows: HTTP/SDK calls. Dashed green: A2A protocol between agents.</text>
+
+  <!-- Humans column -->
+  <rect x="40" y="120" width="250" height="150" class="box human"/>
+  <text x="60" y="150" class="t">Jashan (a human)</text>
+  <text x="60" y="176" class="s">1. pastes ChatGPT / Claude memory</text>
+  <text x="60" y="196" class="s">2. edits and approves the Card</text>
+  <text x="60" y="216" class="s">3. taps In / Not this one</text>
+  <text x="60" y="236" class="s">4. answers "How was it?"</text>
+
+  <rect x="40" y="300" width="250" height="110" class="box human"/>
+  <text x="60" y="330" class="t">Everyone else</text>
+  <text x="60" y="356" class="s">real people + 60 simulated residents</text>
+  <text x="60" y="376" class="s">each with an approved Card</text>
+
+  <!-- Web tier -->
+  <rect x="350" y="120" width="270" height="290" class="box"/>
+  <text x="370" y="150" class="t">Web (FastAPI)</text>
+  <text x="370" y="176" class="s">/  bring your AI's memory → Card</text>
+  <text x="370" y="196" class="s">/card  edit + approve (consent)</text>
+  <text x="370" y="216" class="s">/me/{id}  one screen: talk to your agent</text>
+  <text x="370" y="236" class="s">/network  the agents' threads</text>
+  <text x="370" y="270" class="s">Card extraction: Strands Agent</text>
+  <text x="370" y="290" class="s">with structured output (Pydantic)</text>
+  <text x="370" y="310" class="s">reads the memory, keeps it in the</text>
+  <text x="370" y="330" class="s">agent's private folder, never on the wire</text>
+
+  <!-- AgentCore box -->
+  <rect x="680" y="100" width="680" height="560" class="box aws"/>
+  <text x="700" y="130" class="t">Amazon Bedrock AgentCore (Runtime, Memory) + the agent network (in the web app, EC2)</text>
+
+  <rect x="700" y="150" width="300" height="200" class="box agent"/>
+  <text x="720" y="178" class="t">Person agents (N)</text>
+  <text x="720" y="202" class="s">Strands Agent per person</text>
+  <text x="720" y="220" class="s">tools: read/write/grep files, remember,</text>
+  <text x="720" y="238" class="s">find_agents, dm(list), ask_human,</text>
+  <text x="720" y="256" class="s">venues, calendar, group</text>
+  <text x="720" y="274" class="s">a markdown folder each: me.md, card.md,</text>
+  <text x="720" y="292" class="s">people/, groups/, threads/, talks/</text>
+  <text x="720" y="318" class="s">card-only relay on the wire; consult_my_person</text>
+  <text x="720" y="336" class="s">wakes the full agent (A2AServer per person)</text>
+
+  <rect x="1040" y="150" width="300" height="200" class="box agent"/>
+  <text x="1060" y="178" class="t">Wakes</text>
+  <text x="1060" y="202" class="s">reflect on AgentCore Runtime (folder in/out)</text>
+  <text x="1060" y="220" class="s">DM arrived · person spoke · answered</text>
+  <text x="1060" y="238" class="s">daily · free evening coming</text>
+  <text x="1060" y="256" class="s">daily budget of wakes and DMs</text>
+  <text x="1060" y="274" class="s">ask around · refer · groups · plans</text>
+  <text x="1060" y="292" class="s">feedback relayed as behaviour</text>
+  <text x="1060" y="310" class="s">    guard on every outgoing sentence</text>
+  <text x="1060" y="336" class="s">threads/*.md = the demo</text>
+
+  <path d="M1040,250 L1000,250" class="arrow a2a"/>
+  <text x="1020" y="238" class="lab" text-anchor="middle">A2A</text>
+  <path d="M850,350 C850,400 850,400 850,420" class="arrow a2a"/>
+  <text x="862" y="404" class="lab">agent ↔ agent (A2A)</text>
+
+  <rect x="700" y="420" width="300" height="110" class="box agent"/>
+  <text x="720" y="448" class="t">Other person agents</text>
+  <text x="720" y="472" class="s">same code, different humans;</text>
+  <text x="720" y="490" class="s">DMs with several recipients are</text>
+  <text x="720" y="508" class="s">threads everyone on them can see</text>
+
+  <rect x="1040" y="420" width="300" height="110" class="box"/>
+  <text x="1060" y="448" class="t">AgentCore Memory</text>
+  <text x="1060" y="472" class="s">per person: card, talks, feedback</text>
+  <text x="1060" y="490" class="s">events; recalled into me.md</text>
+  <text x="1060" y="508" class="s">user-preference + semantic strategies</text>
+
+  <rect x="700" y="560" width="640" height="80" class="box"/>
+  <text x="720" y="588" class="t">Amazon Bedrock models</text>
+  <text x="720" y="612" class="s">Claude Sonnet 4.5: card extraction, decisions, invites, simulated residents  ·  Nova Pro: the guard's leak check</text>
+
+  <!-- arrows -->
+  <path d="M290,190 L350,190" class="arrow"/>
+  <path d="M290,350 L350,350" class="arrow"/>
+  <path d="M620,230 L700,230" class="arrow"/>
+  <text x="660" y="220" class="lab" text-anchor="middle">cards</text>
+  <path d="M620,300 L1040,300 " class="arrow" style="opacity:.0"/>
+  <path d="M1190,350 L1190,420" class="arrow"/>
+  <path d="M1000,480 L1040,480" class="arrow"/>
+  <path d="M850,530 L850,560" class="arrow"/>
+  <path d="M1190,530 L1190,560" class="arrow"/>
+  <path d="M1040,330 C900,380 700,380 620,380" class="arrow"/>
+  <text x="640" y="372" class="lab">prompts → the screen</text>
+
+  <!-- footer -->
+  <text x="40" y="700" class="t">What never crosses the network</text>
+  <text x="40" y="724" class="s">me.md, people/, talks/ and the import never leave a folder. The relay on the wire holds only the card; the guard checks every sentence that leaves.</text>
+  <text x="40" y="760" class="t">What the human sees</text>
+  <text x="40" y="784" class="s">One screen. The agent speaks when there is a decision: "Sunday 2 PM, Thom Bargen, with Dorothy. In?" "May John join Saturday?" "How was it?"</text>
+</svg>

@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+work/
+
+video/out/
+docs/cahoots-demo.mp4
+.bedrock_agentcore/
+
+# pages a review agent saved into the root by mistake
+/*.html

@@ -1,0 +1,2435 @@
+[
+  {
+    "person_id": "p000",
+    "first_name": "Irina",
+    "one_liner": "Irina, the quiet novelist",
+    "interests": [
+      "quiet bars",
+      "writing"
+    ],
+    "likes": [
+      "quiet"
+    ],
+    "avoids": [
+      "lively",
+      "competitive"
+    ],
+    "modes": [
+      "friends",
+      "hobby"
+    ],
+    "neighbourhood": "North Kildonan",
+    "max_travel_min": 25,
+    "budget_cad": 20,
+    "group_size_pref": [
+      2,
+      4
+    ],
+    "availability": [
+      {
+        "day": "wed",
+        "start": "19:00",
+        "end": "21:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p001",
+    "first_name": "Margaret",
+    "one_liner": "Margaret, the retired book club host",
+    "interests": [
+      "book club",
+      "board games"
+    ],
+    "likes": [
+      "quiet",
+      "creative"
+    ],
+    "avoids": [
+      "outdoors",
+      "competitive"
+    ],
+    "modes": [
+      "friends",
+      "hobby"
+    ],
+    "neighbourhood": "Osborne Village",
+    "max_travel_min": 25,
+    "budget_cad": 30,
+    "group_size_pref": [
+      4,
+      8
+    ],
+    "availability": [
+      {
+        "day": "thu",
+        "start": "14:00",
+        "end": "17:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p002",
+    "first_name": "Raj",
+    "one_liner": "Raj, the immigrant accountant",
+    "interests": [
+      "cooking",
+      "cricket"
+    ],
+    "likes": [
+      "food",
+      "competitive"
+    ],
+    "avoids": [
+      "quiet",
+      "nerdy"
+    ],
+    "modes": [
+      "friends"
+    ],
+    "neighbourhood": "West End",
+    "max_travel_min": 25,
+    "budget_cad": 40,
+    "group_size_pref": [
+      4,
+      6
+    ],
+    "availability": [
+      {
+        "day": "fri",
+        "start": "18:00",
+        "end": "22:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p003",
+    "first_name": "Liam",
+    "one_liner": "Liam, the basketball coach",
+    "interests": [
+      "basketball",
+      "beer"
+    ],
+    "likes": [
+      "competitive",
+      "outdoors"
+    ],
+    "avoids": [
+      "quiet",
+      "nerdy"
+    ],
+    "modes": [
+      "friends",
+      "hobby"
+    ],
+    "neighbourhood": "Downtown",
+    "max_travel_min": 25,
+    "budget_cad": 50,
+    "group_size_pref": [
+      4,
+      8
+    ],
+    "availability": [
+      {
+        "day": "sat",
+        "start": "13:00",
+        "end": "17:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p004",
+    "first_name": "Ava",
+    "one_liner": "Ava, the sci-fi reading software developer",
+    "interests": [
+      "sci-fi novels",
+      "pickup basketball"
+    ],
+    "likes": [
+      "quiet",
+      "competitive"
+    ],
+    "avoids": [
+      "lively",
+      "outdoors"
+    ],
+    "modes": [
+      "friends",
+      "hobby"
+    ],
+    "neighbourhood": "Exchange District",
+    "max_travel_min": 25,
+    "budget_cad": 60,
+    "group_size_pref": [
+      2,
+      6
+    ],
+    "availability": [
+      {
+        "day": "mon",
+        "start": "19:00",
+        "end": "22:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p005",
+    "first_name": "Grace",
+    "one_liner": "Grace, the music-loving nurse",
+    "interests": [
+      "live music"
+    ],
+    "likes": [
+      "music"
+    ],
+    "avoids": [
+      "quiet",
+      "lively"
+    ],
+    "modes": [
+      "friends"
+    ],
+    "neighbourhood": "North Kildonan",
+    "max_travel_min": 25,
+    "budget_cad": 70,
+    "group_size_pref": [
+      2,
+      4
+    ],
+    "availability": [
+      {
+        "day": "tue",
+        "start": "21:00",
+        "end": "23:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p006",
+    "first_name": "Adam",
+    "one_liner": "Adam, the trivia champion",
+    "interests": [
+      "history",
+      "trivia"
+    ],
+    "likes": [
+      "competitive",
+      "quiet"
+    ],
+    "avoids": [
+      "lively"
+    ],
+    "modes": [
+      "friends",
+      "hobby"
+    ],
+    "neighbourhood": "St. Boniface",
+    "max_travel_min": 25,
+    "budget_cad": 10,
+    "group_size_pref": [
+      4,
+      8
+    ],
+    "availability": [
+      {
+        "day": "wed",
+        "start": "18:00",
+        "end": "22:00"
+      },
+      {
+        "day": "sun",
+        "start": "14:00",
+        "end": "18:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p007",
+    "first_name": "Noor",
+    "one_liner": "Noor, the sci-fi hooper",
+    "interests": [
+      "sci-fi novels",
+      "pickup basketball"
+    ],
+    "likes": [
+      "competitive",
+      "outdoors"
+    ],
+    "avoids": [
+      "quiet"
+    ],
+    "modes": [
+      "friends",
+      "hobby"
+    ],
+    "neighbourhood": "Osborne Village",
+    "max_travel_min": 25,
+    "budget_cad": 30,
+    "group_size_pref": [
+      4,
+      8
+    ],
+    "availability": [
+      {
+        "day": "tue",
+        "start": "19:00",
+        "end": "21:00"
+      },
+      {
+        "day": "sat",
+        "start": "14:00",
+        "end": "16:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p008",
+    "first_name": "Elena",
+    "one_liner": "Elena, the live music nurse",
+    "interests": [
+      "live music"
+    ],
+    "likes": [
+      "music",
+      "lively"
+    ],
+    "avoids": [
+      "quiet",
+      "food"
+    ],
+    "modes": [
+      "friends",
+      "dates"
+    ],
+    "neighbourhood": "North Kildonan",
+    "max_travel_min": 25,
+    "budget_cad": 50,
+    "group_size_pref": [
+      4,
+      8
+    ],
+    "availability": [
+      {
+        "day": "fri",
+        "start": "20:00",
+        "end": "00:00"
+      },
+      {
+        "day": "sat",
+        "start": "22:00",
+        "end": "02:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p009",
+    "first_name": "Rajiv",
+    "one_liner": "Rajiv, the cricket chef",
+    "interests": [
+      "cooking",
+      "cricket"
+    ],
+    "likes": [
+      "food",
+      "outdoors"
+    ],
+    "avoids": [
+      "quiet"
+    ],
+    "modes": [
+      "friends",
+      "hobby"
+    ],
+    "neighbourhood": "Fort Garry",
+    "max_travel_min": 25,
+    "budget_cad": 25,
+    "group_size_pref": [
+      4,
+      8
+    ],
+    "availability": [
+      {
+        "day": "thu",
+        "start": "16:00",
+        "end": "19:00"
+      },
+      {
+        "day": "sun",
+        "start": "10:00",
+        "end": "14:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p010",
+    "first_name": "Sophia",
+    "one_liner": "Sophia, the gallery illustrator",
+    "interests": [
+      "sketching",
+      "art galleries"
+    ],
+    "likes": [
+      "creative",
+      "quiet"
+    ],
+    "avoids": [
+      "competitive"
+    ],
+    "modes": [
+      "friends",
+      "hobby"
+    ],
+    "neighbourhood": "Exchange District",
+    "max_travel_min": 25,
+    "budget_cad": 20,
+    "group_size_pref": [
+      4,
+      8
+    ],
+    "availability": [
+      {
+        "day": "mon",
+        "start": "17:00",
+        "end": "21:00"
+      },
+      {
+        "day": "sat",
+        "start": "10:00",
+        "end": "14:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p011",
+    "first_name": "Marcus",
+    "one_liner": "Marcus, the weekend warrior",
+    "interests": [
+      "weekend relaxation"
+    ],
+    "likes": [
+      "quiet",
+      "outdoors"
+    ],
+    "avoids": [
+      "competitive"
+    ],
+    "modes": [
+      "friends",
+      "anything"
+    ],
+    "neighbourhood": "Downtown",
+    "max_travel_min": 25,
+    "budget_cad": 15,
+    "group_size_pref": [
+      4,
+      8
+    ],
+    "availability": [
+      {
+        "day": "sun",
+        "start": "13:00",
+        "end": "18:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p012",
+    "first_name": "Lila",
+    "one_liner": "Lila, the nurse with a passion for live music",
+    "interests": [
+      "live music",
+      "outdoor concerts"
+    ],
+    "likes": [
+      "music",
+      "outdoors"
+    ],
+    "avoids": [
+      "quiet",
+      "competitive"
+    ],
+    "modes": [
+      "friends",
+      "dates"
+    ],
+    "neighbourhood": "Downtown",
+    "max_travel_min": 25,
+    "budget_cad": 30,
+    "group_size_pref": [
+      4,
+      8
+    ],
+    "availability": [
+      {
+        "day": "tue",
+        "start": "21:00",
+        "end": "23:00"
+      },
+      {
+        "day": "thu",
+        "start": "19:00",
+        "end": "22:00"
+      },
+      {
+        "day": "sat",
+        "start": "18:00",
+        "end": "23:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p013",
+    "first_name": "Ethan",
+    "one_liner": "Ethan, the history grad student and trivia king",
+    "interests": [
+      "history books",
+      "trivia nights"
+    ],
+    "likes": [
+      "competitive",
+      "nerdy"
+    ],
+    "avoids": [
+      "quiet",
+      "music"
+    ],
+    "modes": [
+      "friends",
+      "hobby"
+    ],
+    "neighbourhood": "Downtown",
+    "max_travel_min": 25,
+    "budget_cad": 15,
+    "group_size_pref": [
+      4,
+      8
+    ],
+    "availability": [
+      {
+        "day": "mon",
+        "start": "18:00",
+        "end": "21:00"
+      },
+      {
+        "day": "wed",
+        "start": "19:00",
+        "end": "22:00"
+      },
+      {
+        "day": "fri",
+        "start": "17:00",
+        "end": "20:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p014",
+    "first_name": "Trevor",
+    "one_liner": "Trevor, the high-school basketball coach",
+    "interests": [
+      "basketball",
+      "craft beer"
+    ],
+    "likes": [
+      "competitive",
+      "food"
+    ],
+    "avoids": [
+      "quiet",
+      "nerdy"
+    ],
+    "modes": [
+      "friends",
+      "hobby"
+    ],
+    "neighbourhood": "Fort Garry",
+    "max_travel_min": 25,
+    "budget_cad": 40,
+    "group_size_pref": [
+      4,
+      8
+    ],
+    "availability": [
+      {
+        "day": "sat",
+        "start": "14:00",
+        "end": "18:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p015",
+    "first_name": "Karan",
+    "one_liner": "Karan, the busy warehouse worker",
+    "interests": [
+      "cycling",
+      "cooking"
+    ],
+    "likes": [
+      "quiet",
+      "food"
+    ],
+    "avoids": [
+      "competitive",
+      "music"
+    ],
+    "modes": [
+      "friends",
+      "hobby"
+    ],
+    "neighbourhood": "Exchange District",
+    "max_travel_min": 25,
+    "budget_cad": 20,
+    "group_size_pref": [
+      4,
+      8
+    ],
+    "availability": [
+      {
+        "day": "sun",
+        "start": "14:00",
+        "end": "18:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p016",
+    "first_name": "Sophie",
+    "one_liner": "Sophie, the adventurous line cook",
+    "interests": [
+      "experimental cuisine",
+      "food blogs"
+    ],
+    "likes": [
+      "food",
+      "creative"
+    ],
+    "avoids": [
+      "quiet",
+      "competitive"
+    ],
+    "modes": [
+      "friends",
+      "dates"
+    ],
+    "neighbourhood": "St. Boniface",
+    "max_travel_min": 25,
+    "budget_cad": 35,
+    "group_size_pref": [
+      4,
+      8
+    ],
+    "availability": [
+      {
+        "day": "mon",
+        "start": "12:00",
+        "end": "20:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p017",
+    "first_name": "Aiden",
+    "one_liner": "Aiden, the new-in-town software developer",
+    "interests": [
+      "sci-fi novels",
+      "pickup basketball"
+    ],
+    "likes": [
+      "nerdy",
+      "competitive"
+    ],
+    "avoids": [
+      "quiet",
+      "food"
+    ],
+    "modes": [
+      "friends",
+      "hobby"
+    ],
+    "neighbourhood": "Exchange District",
+    "max_travel_min": 25,
+    "budget_cad": 50,
+    "group_size_pref": [
+      4,
+      8
+    ],
+    "availability": [
+      {
+        "day": "tue",
+        "start": "18:00",
+        "end": "21:00"
+      },
+      {
+        "day": "thu",
+        "start": "19:00",
+        "end": "22:00"
+      },
+      {
+        "day": "sun",
+        "start": "14:00",
+        "end": "17:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p018",
+    "first_name": "Eleanor",
+    "one_liner": "Eleanor, the early-rising birder",
+    "interests": [
+      "birdwatching",
+      "hiking"
+    ],
+    "likes": [
+      "quiet",
+      "outdoors"
+    ],
+    "avoids": [
+      "music",
+      "competitive"
+    ],
+    "modes": [
+      "friends",
+      "hobby"
+    ],
+    "neighbourhood": "North Kildonan",
+    "max_travel_min": 25,
+    "budget_cad": 15,
+    "group_size_pref": [
+      4,
+      8
+    ],
+    "availability": [
+      {
+        "day": "sat",
+        "start": "06:00",
+        "end": "12:00"
+      },
+      {
+        "day": "sun",
+        "start": "06:00",
+        "end": "12:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p019",
+    "first_name": "Dev",
+    "one_liner": "Dev, the philosophizing barista",
+    "interests": [
+      "philosophy",
+      "chess"
+    ],
+    "likes": [
+      "quiet",
+      "nerdy"
+    ],
+    "avoids": [
+      "lively",
+      "music"
+    ],
+    "modes": [
+      "friends",
+      "hobby"
+    ],
+    "neighbourhood": "Osborne Village",
+    "max_travel_min": 25,
+    "budget_cad": 25,
+    "group_size_pref": [
+      4,
+      8
+    ],
+    "availability": [
+      {
+        "day": "wed",
+        "start": "14:00",
+        "end": "18:00"
+      },
+      {
+        "day": "fri",
+        "start": "16:00",
+        "end": "20:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p020",
+    "first_name": "Agatha",
+    "one_liner": "Agatha, the book-loving retiree",
+    "interests": [
+      "reading",
+      "board games"
+    ],
+    "likes": [
+      "quiet",
+      "creative"
+    ],
+    "avoids": [
+      "competitive",
+      "music"
+    ],
+    "modes": [
+      "friends",
+      "hobby"
+    ],
+    "neighbourhood": "Downtown",
+    "max_travel_min": 25,
+    "budget_cad": 30,
+    "group_size_pref": [
+      4,
+      8
+    ],
+    "availability": [
+      {
+        "day": "mon",
+        "start": "10:00",
+        "end": "15:00"
+      },
+      {
+        "day": "thu",
+        "start": "10:00",
+        "end": "15:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p021",
+    "first_name": "Kevin",
+    "one_liner": "Kevin, the cycling dad",
+    "interests": [
+      "cycling",
+      "budget dining"
+    ],
+    "likes": [
+      "outdoors",
+      "food"
+    ],
+    "avoids": [
+      "quiet",
+      "nerdy"
+    ],
+    "modes": [
+      "friends",
+      "dates"
+    ],
+    "neighbourhood": "River Heights",
+    "max_travel_min": 25,
+    "budget_cad": 20,
+    "group_size_pref": [
+      4,
+      8
+    ],
+    "availability": [
+      {
+        "day": "sat",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "day": "sun",
+        "start": "09:00",
+        "end": "17:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p022",
+    "first_name": "Rajesh",
+    "one_liner": "Rajesh, the cooking accountant",
+    "interests": [
+      "cooking",
+      "cricket"
+    ],
+    "likes": [
+      "food",
+      "competitive"
+    ],
+    "avoids": [
+      "quiet",
+      "nerdy"
+    ],
+    "modes": [
+      "friends"
+    ],
+    "neighbourhood": "North Kildonan",
+    "max_travel_min": 25,
+    "budget_cad": 20,
+    "group_size_pref": [
+      4,
+      8
+    ],
+    "availability": [
+      {
+        "day": "tue",
+        "start": "18:00",
+        "end": "22:00"
+      },
+      {
+        "day": "thu",
+        "start": "18:00",
+        "end": "22:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p023",
+    "first_name": "Olivia",
+    "one_liner": "Olivia, the busy warehouse worker",
+    "interests": [
+      "warehouse work"
+    ],
+    "likes": [
+      "quiet"
+    ],
+    "avoids": [
+      "lively",
+      "outdoors"
+    ],
+    "modes": [
+      "friends"
+    ],
+    "neighbourhood": "Corydon",
+    "max_travel_min": 25,
+    "budget_cad": 10,
+    "group_size_pref": [
+      4,
+      8
+    ],
+    "availability": [
+      {
+        "day": "sun",
+        "start": "14:00",
+        "end": "17:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p024",
+    "first_name": "Marianne",
+    "one_liner": "Marianne, the book club maestro",
+    "interests": [
+      "reading classic novels",
+      "board games"
+    ],
+    "likes": [
+      "quiet",
+      "creative"
+    ],
+    "avoids": [
+      "competitive",
+      "lively"
+    ],
+    "modes": [
+      "friends",
+      "hobby"
+    ],
+    "neighbourhood": "West End",
+    "max_travel_min": 25,
+    "budget_cad": 30,
+    "group_size_pref": [
+      4,
+      8
+    ],
+    "availability": [
+      {
+        "day": "tue",
+        "start": "14:00",
+        "end": "18:00"
+      },
+      {
+        "day": "thu",
+        "start": "14:00",
+        "end": "18:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p025",
+    "first_name": "Maya",
+    "one_liner": "Maya, the nurse who lives for live music",
+    "interests": [
+      "live music",
+      "nursing"
+    ],
+    "likes": [
+      "lively",
+      "music"
+    ],
+    "avoids": [
+      "quiet",
+      "food"
+    ],
+    "modes": [
+      "friends",
+      "dates"
+    ],
+    "neighbourhood": "Osborne Village",
+    "max_travel_min": 25,
+    "budget_cad": 50,
+    "group_size_pref": [
+      4,
+      8
+    ],
+    "availability": [
+      {
+        "day": "wed",
+        "start": "22:00",
+        "end": "01:00"
+      },
+      {
+        "day": "fri",
+        "start": "22:00",
+        "end": "01:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p026",
+    "first_name": "Jasper",
+    "one_liner": "Jasper, the adventurous cook",
+    "interests": [
+      "experimental cooking",
+      "food tasting"
+    ],
+    "likes": [
+      "food",
+      "creative"
+    ],
+    "avoids": [
+      "quiet",
+      "competitive"
+    ],
+    "modes": [
+      "friends",
+      "hobby"
+    ],
+    "neighbourhood": "North Kildonan",
+    "max_travel_min": 25,
+    "budget_cad": 40,
+    "group_size_pref": [
+      4,
+      8
+    ],
+    "availability": [
+      {
+        "day": "mon",
+        "start": "11:00",
+        "end": "17:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p027",
+    "first_name": "Dwayne",
+    "one_liner": "Dwayne, the weekend warrior",
+    "interests": [
+      "warehousing",
+      "relaxing"
+    ],
+    "likes": [
+      "quiet",
+      "outdoors"
+    ],
+    "avoids": [
+      "competitive",
+      "lively"
+    ],
+    "modes": [
+      "friends",
+      "anything"
+    ],
+    "neighbourhood": "Transcona",
+    "max_travel_min": 25,
+    "budget_cad": 20,
+    "group_size_pref": [
+      4,
+      8
+    ],
+    "availability": [
+      {
+        "day": "sun",
+        "start": "13:00",
+        "end": "17:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p028",
+    "first_name": "Theo",
+    "one_liner": "Theo, the basketball enthusiast",
+    "interests": [
+      "basketball",
+      "beer tasting"
+    ],
+    "likes": [
+      "competitive",
+      "food"
+    ],
+    "avoids": [
+      "quiet",
+      "nerdy"
+    ],
+    "modes": [
+      "friends",
+      "hobby"
+    ],
+    "neighbourhood": "Osborne Village",
+    "max_travel_min": 25,
+    "budget_cad": 35,
+    "group_size_pref": [
+      4,
+      8
+    ],
+    "availability": [
+      {
+        "day": "sat",
+        "start": "14:00",
+        "end": "18:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p029",
+    "first_name": "Priya",
+    "one_liner": "Priya, the trivia champion",
+    "interests": [
+      "history",
+      "trivia games"
+    ],
+    "likes": [
+      "competitive",
+      "nerdy"
+    ],
+    "avoids": [
+      "quiet",
+      "outdoors"
+    ],
+    "modes": [
+      "friends",
+      "hobby"
+    ],
+    "neighbourhood": "Downtown",
+    "max_travel_min": 25,
+    "budget_cad": 15,
+    "group_size_pref": [
+      4,
+      8
+    ],
+    "availability": [
+      {
+        "day": "mon",
+        "start": "19:00",
+        "end": "22:00"
+      },
+      {
+        "day": "wed",
+        "start": "19:00",
+        "end": "22:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p030",
+    "first_name": "Jonah",
+    "one_liner": "Jonah, the sci-fi-loving software developer",
+    "interests": [
+      "sci-fi novels",
+      "pickup basketball"
+    ],
+    "likes": [
+      "quiet",
+      "competitive",
+      "outdoors"
+    ],
+    "avoids": [],
+    "modes": [
+      "friends",
+      "hobby"
+    ],
+    "neighbourhood": "Fort Garry",
+    "max_travel_min": 25,
+    "budget_cad": 30,
+    "group_size_pref": [
+      4,
+      8
+    ],
+    "availability": [
+      {
+        "day": "tue",
+        "start": "18:00",
+        "end": "21:00"
+      },
+      {
+        "day": "thu",
+        "start": "18:00",
+        "end": "21:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p031",
+    "first_name": "Kai",
+    "one_liner": "Kai, the adventurous line cook",
+    "interests": [
+      "cooking exotic dishes"
+    ],
+    "likes": [
+      "food",
+      "lively"
+    ],
+    "avoids": [],
+    "modes": [
+      "friends",
+      "dates"
+    ],
+    "neighbourhood": "Tuxedo",
+    "max_travel_min": 25,
+    "budget_cad": 25,
+    "group_size_pref": [
+      4,
+      8
+    ],
+    "availability": [
+      {
+        "day": "tue",
+        "start": "17:00",
+        "end": "22:00"
+      },
+      {
+        "day": "thu",
+        "start": "17:00",
+        "end": "22:00"
+      },
+      {
+        "day": "fri",
+        "start": "17:00",
+        "end": "22:00"
+      },
+      {
+        "day": "sat",
+        "start": "17:00",
+        "end": "22:00"
+      },
+      {
+        "day": "sun",
+        "start": "17:00",
+        "end": "22:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p032",
+    "first_name": "Lena",
+    "one_liner": "Lena, the broke trivia champion",
+    "interests": [
+      "history",
+      "trivia nights"
+    ],
+    "likes": [
+      "quiet",
+      "competitive",
+      "nerdy"
+    ],
+    "avoids": [],
+    "modes": [
+      "friends",
+      "hobby"
+    ],
+    "neighbourhood": "West End",
+    "max_travel_min": 25,
+    "budget_cad": 10,
+    "group_size_pref": [
+      4,
+      8
+    ],
+    "availability": [
+      {
+        "day": "wed",
+        "start": "19:00",
+        "end": "22:00"
+      },
+      {
+        "day": "fri",
+        "start": "19:00",
+        "end": "22:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p033",
+    "first_name": "Omar",
+    "one_liner": "Omar, the karaoke queen",
+    "interests": [
+      "karaoke",
+      "dancing"
+    ],
+    "likes": [
+      "lively",
+      "music"
+    ],
+    "avoids": [],
+    "modes": [
+      "anything"
+    ],
+    "neighbourhood": "St. Vital",
+    "max_travel_min": 25,
+    "budget_cad": 40,
+    "group_size_pref": [
+      4,
+      8
+    ],
+    "availability": [
+      {
+        "day": "fri",
+        "start": "21:00",
+        "end": "01:00"
+      },
+      {
+        "day": "sat",
+        "start": "21:00",
+        "end": "01:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p034",
+    "first_name": "Rob",
+    "one_liner": "Rob, the hoops-loving high-school coach",
+    "interests": [
+      "basketball",
+      "beer tasting"
+    ],
+    "likes": [
+      "competitive",
+      "food"
+    ],
+    "avoids": [],
+    "modes": [
+      "friends",
+      "hobby"
+    ],
+    "neighbourhood": "Downtown",
+    "max_travel_min": 25,
+    "budget_cad": 50,
+    "group_size_pref": [
+      4,
+      8
+    ],
+    "availability": [
+      {
+        "day": "sat",
+        "start": "13:00",
+        "end": "17:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p035",
+    "first_name": "Zoe",
+    "one_liner": "Zoe, the birder and hiker",
+    "interests": [
+      "birdwatching",
+      "hiking"
+    ],
+    "likes": [
+      "quiet",
+      "outdoors"
+    ],
+    "avoids": [],
+    "modes": [
+      "friends",
+      "hobby"
+    ],
+    "neighbourhood": "St. Vital",
+    "max_travel_min": 25,
+    "budget_cad": 20,
+    "group_size_pref": [
+      2,
+      4
+    ],
+    "availability": [
+      {
+        "day": "sat",
+        "start": "07:00",
+        "end": "12:00"
+      },
+      {
+        "day": "sun",
+        "start": "07:00",
+        "end": "12:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p036",
+    "first_name": "Felix",
+    "one_liner": "Felix, the quiet novelist",
+    "interests": [
+      "writing",
+      "quiet bars"
+    ],
+    "likes": [
+      "quiet"
+    ],
+    "avoids": [
+      "lively"
+    ],
+    "modes": [
+      "friends"
+    ],
+    "neighbourhood": "Downtown",
+    "max_travel_min": 25,
+    "budget_cad": 30,
+    "group_size_pref": [
+      2,
+      4
+    ],
+    "availability": [
+      {
+        "day": "wed",
+        "start": "17:00",
+        "end": "20:00"
+      },
+      {
+        "day": "fri",
+        "start": "17:00",
+        "end": "20:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p037",
+    "first_name": "Jake",
+    "one_liner": "Jake, the cycling single dad",
+    "interests": [
+      "cycling",
+      "cheap eats"
+    ],
+    "likes": [
+      "outdoors"
+    ],
+    "avoids": [
+      "quiet"
+    ],
+    "modes": [
+      "friends",
+      "dates"
+    ],
+    "neighbourhood": "River Heights",
+    "max_travel_min": 25,
+    "budget_cad": 20,
+    "group_size_pref": [
+      2,
+      6
+    ],
+    "availability": [
+      {
+        "day": "sat",
+        "start": "09:00",
+        "end": "18:00"
+      },
+      {
+        "day": "sun",
+        "start": "09:00",
+        "end": "18:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p038",
+    "first_name": "Sam",
+    "one_liner": "Sam, the broke history buff",
+    "interests": [
+      "history",
+      "trivia"
+    ],
+    "likes": [
+      "competitive"
+    ],
+    "avoids": [
+      "quiet"
+    ],
+    "modes": [
+      "friends",
+      "hobby"
+    ],
+    "neighbourhood": "North Kildonan",
+    "max_travel_min": 25,
+    "budget_cad": 15,
+    "group_size_pref": [
+      4,
+      8
+    ],
+    "availability": [
+      {
+        "day": "tue",
+        "start": "18:00",
+        "end": "22:00"
+      },
+      {
+        "day": "thu",
+        "start": "18:00",
+        "end": "22:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p039",
+    "first_name": "Ella",
+    "one_liner": "Ella, the retired teacher with a book club",
+    "interests": [
+      "reading",
+      "board games"
+    ],
+    "likes": [
+      "quiet"
+    ],
+    "avoids": [
+      "competitive"
+    ],
+    "modes": [
+      "friends",
+      "hobby"
+    ],
+    "neighbourhood": "St. Vital",
+    "max_travel_min": 25,
+    "budget_cad": 40,
+    "group_size_pref": [
+      4,
+      6
+    ],
+    "availability": [
+      {
+        "day": "mon",
+        "start": "13:00",
+        "end": "17:00"
+      },
+      {
+        "day": "wed",
+        "start": "13:00",
+        "end": "17:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p040",
+    "first_name": "Tom",
+    "one_liner": "Tom, the busy warehouse worker",
+    "interests": [
+      "video games",
+      "cooking"
+    ],
+    "likes": [
+      "quiet"
+    ],
+    "avoids": [
+      "lively"
+    ],
+    "modes": [
+      "friends"
+    ],
+    "neighbourhood": "West End",
+    "max_travel_min": 25,
+    "budget_cad": 25,
+    "group_size_pref": [
+      2,
+      4
+    ],
+    "availability": [
+      {
+        "day": "sun",
+        "start": "13:00",
+        "end": "17:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p041",
+    "first_name": "Nina",
+    "one_liner": "Nina, the nurse who loves live music",
+    "interests": [
+      "live music",
+      "nursing"
+    ],
+    "likes": [
+      "music"
+    ],
+    "avoids": [
+      "quiet",
+      "competitive"
+    ],
+    "modes": [
+      "friends",
+      "dates"
+    ],
+    "neighbourhood": "Transcona",
+    "max_travel_min": 25,
+    "budget_cad": 50,
+    "group_size_pref": [
+      2,
+      4
+    ],
+    "availability": [
+      {
+        "day": "tue",
+        "start": "20:00",
+        "end": "23:00"
+      },
+      {
+        "day": "fri",
+        "start": "20:00",
+        "end": "23:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p042",
+    "first_name": "Sasha",
+    "one_liner": "Sasha, the karaoke enthusiast",
+    "interests": [
+      "karaoke",
+      "dancing",
+      "loud parties"
+    ],
+    "likes": [
+      "lively",
+      "music"
+    ],
+    "avoids": [],
+    "modes": [
+      "anything"
+    ],
+    "neighbourhood": "Fort Garry",
+    "max_travel_min": 25,
+    "budget_cad": 40,
+    "group_size_pref": [
+      4,
+      8
+    ],
+    "availability": [
+      {
+        "day": "sat",
+        "start": "18:00",
+        "end": "23:59"
+      },
+      {
+        "day": "sun",
+        "start": "18:00",
+        "end": "23:59"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p043",
+    "first_name": "Mike",
+    "one_liner": "Mike, the cycling dad",
+    "interests": [
+      "cycling",
+      "cheap eats"
+    ],
+    "likes": [
+      "outdoors",
+      "food"
+    ],
+    "avoids": [],
+    "modes": [
+      "friends",
+      "hobby"
+    ],
+    "neighbourhood": "Wolseley",
+    "max_travel_min": 25,
+    "budget_cad": 20,
+    "group_size_pref": [
+      4,
+      8
+    ],
+    "availability": [
+      {
+        "day": "sat",
+        "start": "09:00",
+        "end": "18:00"
+      },
+      {
+        "day": "sun",
+        "start": "09:00",
+        "end": "18:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p044",
+    "first_name": "Jin",
+    "one_liner": "Jin, the adventurous cook",
+    "interests": [
+      "adventurous food"
+    ],
+    "likes": [
+      "food",
+      "creative"
+    ],
+    "avoids": [],
+    "modes": [
+      "friends",
+      "hobby"
+    ],
+    "neighbourhood": "Tuxedo",
+    "max_travel_min": 25,
+    "budget_cad": 30,
+    "group_size_pref": [
+      4,
+      8
+    ],
+    "availability": [
+      {
+        "day": "tue",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "day": "wed",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "day": "thu",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "day": "fri",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "day": "sat",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "day": "sun",
+        "start": "09:00",
+        "end": "17:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p045",
+    "first_name": "Aisha",
+    "one_liner": "Aisha, the live music lover",
+    "interests": [
+      "live music"
+    ],
+    "likes": [
+      "music",
+      "lively"
+    ],
+    "avoids": [
+      "quiet",
+      "competitive"
+    ],
+    "modes": [
+      "friends",
+      "hobby"
+    ],
+    "neighbourhood": "West End",
+    "max_travel_min": 25,
+    "budget_cad": 35,
+    "group_size_pref": [
+      4,
+      8
+    ],
+    "availability": [
+      {
+        "day": "tue",
+        "start": "19:00",
+        "end": "23:00"
+      },
+      {
+        "day": "thu",
+        "start": "19:00",
+        "end": "23:00"
+      },
+      {
+        "day": "fri",
+        "start": "19:00",
+        "end": "23:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p046",
+    "first_name": "Anika",
+    "one_liner": "Anika, the sketching artist",
+    "interests": [
+      "sketching",
+      "gallery nights"
+    ],
+    "likes": [
+      "creative",
+      "quiet"
+    ],
+    "avoids": [],
+    "modes": [
+      "friends",
+      "hobby"
+    ],
+    "neighbourhood": "Wolseley",
+    "max_travel_min": 25,
+    "budget_cad": 25,
+    "group_size_pref": [
+      4,
+      8
+    ],
+    "availability": [
+      {
+        "day": "wed",
+        "start": "17:00",
+        "end": "22:00"
+      },
+      {
+        "day": "fri",
+        "start": "17:00",
+        "end": "22:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p047",
+    "first_name": "Leo",
+    "one_liner": "Leo, the early bird hiker",
+    "interests": [
+      "birding",
+      "hiking"
+    ],
+    "likes": [
+      "outdoors",
+      "quiet"
+    ],
+    "avoids": [
+      "competitive",
+      "lively"
+    ],
+    "modes": [
+      "friends",
+      "hobby"
+    ],
+    "neighbourhood": "St. Vital",
+    "max_travel_min": 25,
+    "budget_cad": 15,
+    "group_size_pref": [
+      4,
+      8
+    ],
+    "availability": [
+      {
+        "day": "mon",
+        "start": "06:00",
+        "end": "12:00"
+      },
+      {
+        "day": "tue",
+        "start": "06:00",
+        "end": "12:00"
+      },
+      {
+        "day": "wed",
+        "start": "06:00",
+        "end": "12:00"
+      },
+      {
+        "day": "thu",
+        "start": "06:00",
+        "end": "12:00"
+      },
+      {
+        "day": "fri",
+        "start": "06:00",
+        "end": "12:00"
+      },
+      {
+        "day": "sat",
+        "start": "06:00",
+        "end": "12:00"
+      },
+      {
+        "day": "sun",
+        "start": "06:00",
+        "end": "12:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p048",
+    "first_name": "Ravi",
+    "one_liner": "Ravi, the cricket-loving accountant",
+    "interests": [
+      "cooking",
+      "cricket"
+    ],
+    "likes": [
+      "quiet",
+      "outdoors",
+      "competitive"
+    ],
+    "avoids": [
+      "lively",
+      "music"
+    ],
+    "modes": [
+      "friends"
+    ],
+    "neighbourhood": "Tuxedo",
+    "max_travel_min": 25,
+    "budget_cad": 40,
+    "group_size_pref": [
+      4,
+      8
+    ],
+    "availability": [
+      {
+        "day": "tue",
+        "start": "18:00",
+        "end": "21:00"
+      },
+      {
+        "day": "wed",
+        "start": "18:00",
+        "end": "21:00"
+      },
+      {
+        "day": "thu",
+        "start": "18:00",
+        "end": "21:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p049",
+    "first_name": "Ruth",
+    "one_liner": "Ruth, the sci-fi reading software developer",
+    "interests": [
+      "sci-fi novels",
+      "pickup basketball"
+    ],
+    "likes": [
+      "nerdy",
+      "outdoors",
+      "competitive"
+    ],
+    "avoids": [
+      "quiet",
+      "food"
+    ],
+    "modes": [
+      "friends",
+      "hobby"
+    ],
+    "neighbourhood": "West End",
+    "max_travel_min": 25,
+    "budget_cad": 30,
+    "group_size_pref": [
+      4,
+      8
+    ],
+    "availability": [
+      {
+        "day": "fri",
+        "start": "17:00",
+        "end": "20:00"
+      },
+      {
+        "day": "sat",
+        "start": "17:00",
+        "end": "20:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p050",
+    "first_name": "Joe",
+    "one_liner": "Joe, the high-school basketball coach",
+    "interests": [
+      "basketball",
+      "beer"
+    ],
+    "likes": [
+      "outdoors",
+      "competitive",
+      "food"
+    ],
+    "avoids": [
+      "quiet",
+      "nerdy"
+    ],
+    "modes": [
+      "friends",
+      "hobby"
+    ],
+    "neighbourhood": "West End",
+    "max_travel_min": 25,
+    "budget_cad": 50,
+    "group_size_pref": [
+      4,
+      8
+    ],
+    "availability": [
+      {
+        "day": "sat",
+        "start": "13:00",
+        "end": "17:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p051",
+    "first_name": "Sandra",
+    "one_liner": "Sandra, the nurse who loves live music",
+    "interests": [
+      "live music"
+    ],
+    "likes": [
+      "lively",
+      "music"
+    ],
+    "avoids": [
+      "quiet",
+      "food"
+    ],
+    "modes": [
+      "dates",
+      "friends"
+    ],
+    "neighbourhood": "Transcona",
+    "max_travel_min": 25,
+    "budget_cad": 25,
+    "group_size_pref": [
+      2,
+      4
+    ],
+    "availability": [
+      {
+        "day": "tue",
+        "start": "20:00",
+        "end": "23:00"
+      },
+      {
+        "day": "thu",
+        "start": "20:00",
+        "end": "23:00"
+      },
+      {
+        "day": "sat",
+        "start": "20:00",
+        "end": "23:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p052",
+    "first_name": "Marina",
+    "one_liner": "Marina, the early-rising birder",
+    "interests": [
+      "birdwatching",
+      "hiking"
+    ],
+    "likes": [
+      "quiet",
+      "outdoors"
+    ],
+    "avoids": [
+      "lively",
+      "music"
+    ],
+    "modes": [
+      "friends",
+      "hobby"
+    ],
+    "neighbourhood": "West End",
+    "max_travel_min": 25,
+    "budget_cad": 15,
+    "group_size_pref": [
+      2,
+      4
+    ],
+    "availability": [
+      {
+        "day": "sat",
+        "start": "06:00",
+        "end": "10:00"
+      },
+      {
+        "day": "sun",
+        "start": "06:00",
+        "end": "10:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p053",
+    "first_name": "Pablo",
+    "one_liner": "Pablo, the adventurous line cook",
+    "interests": [
+      "cooking"
+    ],
+    "likes": [
+      "food",
+      "creative"
+    ],
+    "avoids": [
+      "quiet",
+      "competitive"
+    ],
+    "modes": [
+      "friends",
+      "dates"
+    ],
+    "neighbourhood": "Downtown",
+    "max_travel_min": 25,
+    "budget_cad": 60,
+    "group_size_pref": [
+      4,
+      8
+    ],
+    "availability": [
+      {
+        "day": "tue",
+        "start": "18:00",
+        "end": "22:00"
+      },
+      {
+        "day": "wed",
+        "start": "18:00",
+        "end": "22:00"
+      },
+      {
+        "day": "thu",
+        "start": "18:00",
+        "end": "22:00"
+      },
+      {
+        "day": "fri",
+        "start": "18:00",
+        "end": "22:00"
+      },
+      {
+        "day": "sun",
+        "start": "18:00",
+        "end": "22:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p054",
+    "first_name": "Gabe",
+    "one_liner": "Gabe, the karaoke queen",
+    "interests": [
+      "karaoke",
+      "dancing",
+      "loud parties"
+    ],
+    "likes": [
+      "lively",
+      "music"
+    ],
+    "avoids": [
+      "quiet"
+    ],
+    "modes": [
+      "anything"
+    ],
+    "neighbourhood": "River Heights",
+    "max_travel_min": 25,
+    "budget_cad": 35,
+    "group_size_pref": [
+      4,
+      12
+    ],
+    "availability": [
+      {
+        "day": "fri",
+        "start": "19:00",
+        "end": "02:00"
+      },
+      {
+        "day": "sat",
+        "start": "19:00",
+        "end": "02:00"
+      },
+      {
+        "day": "sun",
+        "start": "14:00",
+        "end": "23:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p055",
+    "first_name": "Ming",
+    "one_liner": "Ming, the adventurous eater",
+    "interests": [
+      "world cuisine",
+      "cooking"
+    ],
+    "likes": [
+      "food",
+      "creative"
+    ],
+    "avoids": [
+      "quiet"
+    ],
+    "modes": [
+      "friends",
+      "dates"
+    ],
+    "neighbourhood": "St. Vital",
+    "max_travel_min": 25,
+    "budget_cad": 40,
+    "group_size_pref": [
+      4,
+      8
+    ],
+    "availability": [
+      {
+        "day": "tue",
+        "start": "15:00",
+        "end": "21:00"
+      },
+      {
+        "day": "wed",
+        "start": "15:00",
+        "end": "21:00"
+      },
+      {
+        "day": "thu",
+        "start": "15:00",
+        "end": "21:00"
+      },
+      {
+        "day": "fri",
+        "start": "15:00",
+        "end": "21:00"
+      },
+      {
+        "day": "sun",
+        "start": "15:00",
+        "end": "21:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p056",
+    "first_name": "Tasha",
+    "one_liner": "Tasha, the Sunday survivor",
+    "interests": [
+      "relaxing",
+      "cheap thrills"
+    ],
+    "likes": [
+      "quiet",
+      "outdoors"
+    ],
+    "avoids": [
+      "competitive"
+    ],
+    "modes": [
+      "friends",
+      "hobby"
+    ],
+    "neighbourhood": "Transcona",
+    "max_travel_min": 25,
+    "budget_cad": 20,
+    "group_size_pref": [
+      2,
+      6
+    ],
+    "availability": [
+      {
+        "day": "sun",
+        "start": "14:00",
+        "end": "18:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p057",
+    "first_name": "Ines",
+    "one_liner": "Ines, the group dater",
+    "interests": [
+      "movies",
+      "board games"
+    ],
+    "likes": [
+      "quiet",
+      "creative"
+    ],
+    "avoids": [
+      "competitive"
+    ],
+    "modes": [
+      "dates"
+    ],
+    "neighbourhood": "Corydon",
+    "max_travel_min": 25,
+    "budget_cad": 25,
+    "group_size_pref": [
+      6,
+      10
+    ],
+    "availability": [
+      {
+        "day": "fri",
+        "start": "18:00",
+        "end": "22:00"
+      },
+      {
+        "day": "sat",
+        "start": "18:00",
+        "end": "22:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p058",
+    "first_name": "Clara",
+    "one_liner": "Clara, the music-loving nurse",
+    "interests": [
+      "live music",
+      "nursing"
+    ],
+    "likes": [
+      "lively",
+      "music"
+    ],
+    "avoids": [
+      "quiet",
+      "food"
+    ],
+    "modes": [
+      "friends",
+      "hobby"
+    ],
+    "neighbourhood": "Osborne Village",
+    "max_travel_min": 25,
+    "budget_cad": 50,
+    "group_size_pref": [
+      4,
+      8
+    ],
+    "availability": [
+      {
+        "day": "tue",
+        "start": "20:00",
+        "end": "23:00"
+      },
+      {
+        "day": "thu",
+        "start": "20:00",
+        "end": "23:00"
+      },
+      {
+        "day": "fri",
+        "start": "18:00",
+        "end": "22:00"
+      },
+      {
+        "day": "sat",
+        "start": "18:00",
+        "end": "22:00"
+      }
+    ],
+    "notes_for_agents": ""
+  },
+  {
+    "person_id": "p059",
+    "first_name": "Tomas",
+    "one_liner": "Tomas, the basketball coach",
+    "interests": [
+      "basketball",
+      "craft beer"
+    ],
+    "likes": [
+      "competitive",
+      "food"
+    ],
+    "avoids": [
+      "quiet"
+    ],
+    "modes": [
+      "friends",
+      "hobby"
+    ],
+    "neighbourhood": "Exchange District",
+    "max_travel_min": 25,
+    "budget_cad": 60,
+    "group_size_pref": [
+      4,
+      8
+    ],
+    "availability": [
+      {
+        "day": "sat",
+        "start": "13:00",
+        "end": "17:00"
+      }
+    ],
+    "notes_for_agents": ""
+  }
+]

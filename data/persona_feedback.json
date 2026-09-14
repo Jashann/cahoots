@@ -1,0 +1,422 @@
+{
+ "p000": [
+  {
+   "outing_id": "past-0",
+   "person_id": "p000",
+   "rating": 3,
+   "words": "okay, but I was tired after a double shift and should have skipped it",
+   "would_see_again": [],
+   "learned": []
+  },
+  {
+   "outing_id": "past-1",
+   "person_id": "p000",
+   "rating": 2,
+   "words": "The Rec Room was far too loud for me, and I left early",
+   "would_see_again": [],
+   "learned": []
+  }
+ ],
+ "p003": [
+  {
+   "outing_id": "past-0",
+   "person_id": "p003",
+   "rating": 2,
+   "words": "Forth Café & Bar was far too loud for me, and I left early",
+   "would_see_again": [],
+   "learned": []
+  },
+  {
+   "outing_id": "past-1",
+   "person_id": "p003",
+   "rating": 5,
+   "words": "really enjoyed it; Fatima and I talked books the whole time",
+   "would_see_again": [],
+   "learned": []
+  }
+ ],
+ "p006": [
+  {
+   "outing_id": "past-0",
+   "person_id": "p006",
+   "rating": 3,
+   "words": "fine, though I'd rather not sit next to Adrian again",
+   "would_see_again": [],
+   "learned": []
+  }
+ ],
+ "p007": [
+  {
+   "outing_id": "past-0",
+   "person_id": "p007",
+   "rating": 3,
+   "words": "too many people, and the walk from the bus was longer than I expected",
+   "would_see_again": [],
+   "learned": []
+  },
+  {
+   "outing_id": "past-1",
+   "person_id": "p007",
+   "rating": 3,
+   "words": "fine, though I'd rather not sit next to Rielle again",
+   "would_see_again": [],
+   "learned": []
+  }
+ ],
+ "p008": [
+  {
+   "outing_id": "past-0",
+   "person_id": "p008",
+   "rating": 3,
+   "words": "okay, but I was tired after a double shift and should have skipped it",
+   "would_see_again": [],
+   "learned": []
+  }
+ ],
+ "p009": [
+  {
+   "outing_id": "past-0",
+   "person_id": "p009",
+   "rating": 5,
+   "words": "great crowd, Duke of Kent Legion (Bingo Night) was perfect, six was the right number",
+   "would_see_again": [],
+   "learned": []
+  }
+ ],
+ "p010": [
+  {
+   "outing_id": "past-0",
+   "person_id": "p010",
+   "rating": 5,
+   "words": "loved it, Greg was great company, would go again",
+   "would_see_again": [],
+   "learned": []
+  }
+ ],
+ "p011": [
+  {
+   "outing_id": "past-0",
+   "person_id": "p011",
+   "rating": 5,
+   "words": "really enjoyed it; Kenji and I talked books the whole time",
+   "would_see_again": [],
+   "learned": []
+  },
+  {
+   "outing_id": "past-1",
+   "person_id": "p011",
+   "rating": 4,
+   "words": "good night, Winnipeg Art Gallery – Qaumajuq was the right call, but Jamal talked over everyone",
+   "would_see_again": [],
+   "learned": []
+  }
+ ],
+ "p013": [
+  {
+   "outing_id": "past-0",
+   "person_id": "p013",
+   "rating": 5,
+   "words": "really enjoyed it; Brittany and I talked books the whole time",
+   "would_see_again": [],
+   "learned": []
+  },
+  {
+   "outing_id": "past-1",
+   "person_id": "p013",
+   "rating": 3,
+   "words": "fine, though I'd rather not sit next to Shayna again",
+   "would_see_again": [],
+   "learned": []
+  }
+ ],
+ "p014": [
+  {
+   "outing_id": "past-0",
+   "person_id": "p014",
+   "rating": 3,
+   "words": "too many people, and the walk from the bus was longer than I expected",
+   "would_see_again": [],
+   "learned": []
+  },
+  {
+   "outing_id": "past-1",
+   "person_id": "p014",
+   "rating": 5,
+   "words": "loved it, Luca was great company, would go again",
+   "would_see_again": [],
+   "learned": []
+  }
+ ],
+ "p016": [
+  {
+   "outing_id": "past-0",
+   "person_id": "p016",
+   "rating": 3,
+   "words": "okay, but I was tired after a double shift and should have skipped it",
+   "would_see_again": [],
+   "learned": []
+  },
+  {
+   "outing_id": "past-1",
+   "person_id": "p016",
+   "rating": 3,
+   "words": "okay, but I was tired after a double shift and should have skipped it",
+   "would_see_again": [],
+   "learned": []
+  }
+ ],
+ "p019": [
+  {
+   "outing_id": "past-0",
+   "person_id": "p019",
+   "rating": 5,
+   "words": "loved it, Kwame was great company, would go again",
+   "would_see_again": [],
+   "learned": []
+  },
+  {
+   "outing_id": "past-1",
+   "person_id": "p019",
+   "rating": 3,
+   "words": "fine, though I'd rather not sit next to Miriam again",
+   "would_see_again": [],
+   "learned": []
+  }
+ ],
+ "p022": [
+  {
+   "outing_id": "past-0",
+   "person_id": "p022",
+   "rating": 3,
+   "words": "fine, though I'd rather not sit next to Tyrell again",
+   "would_see_again": [],
+   "learned": []
+  }
+ ],
+ "p025": [
+  {
+   "outing_id": "past-0",
+   "person_id": "p025",
+   "rating": 2,
+   "words": "Kildonan Park Trails was far too loud for me, and I left early",
+   "would_see_again": [],
+   "learned": []
+  }
+ ],
+ "p026": [
+  {
+   "outing_id": "past-0",
+   "person_id": "p026",
+   "rating": 5,
+   "words": "great crowd, The Forks Market was perfect, six was the right number",
+   "would_see_again": [],
+   "learned": []
+  },
+  {
+   "outing_id": "past-1",
+   "person_id": "p026",
+   "rating": 5,
+   "words": "loved it, Sasha was great company, would go again",
+   "would_see_again": [],
+   "learned": []
+  }
+ ],
+ "p027": [
+  {
+   "outing_id": "past-0",
+   "person_id": "p027",
+   "rating": 4,
+   "words": "good night, Sargent Park Courts was the right call, but Patricia talked over everyone",
+   "would_see_again": [],
+   "learned": []
+  }
+ ],
+ "p028": [
+  {
+   "outing_id": "past-0",
+   "person_id": "p028",
+   "rating": 2,
+   "words": "The Rec Room was far too loud for me, and I left early",
+   "would_see_again": [],
+   "learned": []
+  },
+  {
+   "outing_id": "past-1",
+   "person_id": "p028",
+   "rating": 2,
+   "words": "McNally Robinson Booksellers (Grant Park) was far too loud for me, and I left early",
+   "would_see_again": [],
+   "learned": []
+  }
+ ],
+ "p029": [
+  {
+   "outing_id": "past-0",
+   "person_id": "p029",
+   "rating": 5,
+   "words": "great crowd, Duke of Kent Legion (Bingo Night) was perfect, six was the right number",
+   "would_see_again": [],
+   "learned": []
+  }
+ ],
+ "p031": [
+  {
+   "outing_id": "past-0",
+   "person_id": "p031",
+   "rating": 2,
+   "words": "Winnipeg Art Gallery – Qaumajuq was far too loud for me, and I left early",
+   "would_see_again": [],
+   "learned": []
+  }
+ ],
+ "p033": [
+  {
+   "outing_id": "past-0",
+   "person_id": "p033",
+   "rating": 5,
+   "words": "loved it, Kwame was great company, would go again",
+   "would_see_again": [],
+   "learned": []
+  },
+  {
+   "outing_id": "past-1",
+   "person_id": "p033",
+   "rating": 5,
+   "words": "loved it, Étienne was great company, would go again",
+   "would_see_again": [],
+   "learned": []
+  }
+ ],
+ "p034": [
+  {
+   "outing_id": "past-0",
+   "person_id": "p034",
+   "rating": 3,
+   "words": "fine, though I'd rather not sit next to Chinwe again",
+   "would_see_again": [],
+   "learned": []
+  },
+  {
+   "outing_id": "past-1",
+   "person_id": "p034",
+   "rating": 5,
+   "words": "great crowd, The Rec Room was perfect, six was the right number",
+   "would_see_again": [],
+   "learned": []
+  }
+ ],
+ "p035": [
+  {
+   "outing_id": "past-0",
+   "person_id": "p035",
+   "rating": 5,
+   "words": "loved it, Luca was great company, would go again",
+   "would_see_again": [],
+   "learned": []
+  }
+ ],
+ "p036": [
+  {
+   "outing_id": "past-0",
+   "person_id": "p036",
+   "rating": 5,
+   "words": "great crowd, Winnipeg Art Gallery – Qaumajuq was perfect, six was the right number",
+   "would_see_again": [],
+   "learned": []
+  }
+ ],
+ "p038": [
+  {
+   "outing_id": "past-0",
+   "person_id": "p038",
+   "rating": 3,
+   "words": "okay, but I was tired after a double shift and should have skipped it",
+   "would_see_again": [],
+   "learned": []
+  },
+  {
+   "outing_id": "past-1",
+   "person_id": "p038",
+   "rating": 4,
+   "words": "good night, Sargent Sundae was the right call, but Tyrell talked over everyone",
+   "would_see_again": [],
+   "learned": []
+  }
+ ],
+ "p039": [
+  {
+   "outing_id": "past-0",
+   "person_id": "p039",
+   "rating": 5,
+   "words": "loved it, Isaiah was great company, would go again",
+   "would_see_again": [],
+   "learned": []
+  }
+ ],
+ "p044": [
+  {
+   "outing_id": "past-0",
+   "person_id": "p044",
+   "rating": 4,
+   "words": "good night, The Rec Room was the right call, but Dorothy talked over everyone",
+   "would_see_again": [],
+   "learned": []
+  }
+ ],
+ "p048": [
+  {
+   "outing_id": "past-0",
+   "person_id": "p048",
+   "rating": 3,
+   "words": "okay, but I was tired after a double shift and should have skipped it",
+   "would_see_again": [],
+   "learned": []
+  }
+ ],
+ "p049": [
+  {
+   "outing_id": "past-0",
+   "person_id": "p049",
+   "rating": 5,
+   "words": "loved it, Jasmine was great company, would go again",
+   "would_see_again": [],
+   "learned": []
+  }
+ ],
+ "p056": [
+  {
+   "outing_id": "past-0",
+   "person_id": "p056",
+   "rating": 5,
+   "words": "loved it, Tomas was great company, would go again",
+   "would_see_again": [],
+   "learned": []
+  },
+  {
+   "outing_id": "past-1",
+   "person_id": "p056",
+   "rating": 4,
+   "words": "good night, The Rec Room was the right call, but Tomas talked over everyone",
+   "would_see_again": [],
+   "learned": []
+  }
+ ],
+ "p057": [
+  {
+   "outing_id": "past-0",
+   "person_id": "p057",
+   "rating": 5,
+   "words": "really enjoyed it; Greg and I talked books the whole time",
+   "would_see_again": [],
+   "learned": []
+  },
+  {
+   "outing_id": "past-1",
+   "person_id": "p057",
+   "rating": 5,
+   "words": "loved it, Sasha was great company, would go again",
+   "would_see_again": [],
+   "learned": []
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+<!doctype html><meta charset="utf-8"><title>Cahoots on a phone</title>
+<style>body{margin:0;background:#faf7f2;height:100vh;display:flex;align-items:center;justify-content:center;gap:48px;font-family:-apple-system,Segoe UI,Helvetica,Arial;color:#1a1a1a}
+.phone{width:390px;height:690px;border-radius:44px;background:#111;padding:12px;box-shadow:0 30px 60px rgba(0,0,0,.25);position:relative;flex:none}
+body.small .phone{width:400px;height:520px;border-radius:38px;padding:10px}
+.phone iframe{width:100%;height:100%;border:0;border-radius:34px;background:#faf7f2}
+.notch{position:absolute;top:12px;left:50%;transform:translateX(-50%);width:120px;height:26px;background:#111;border-radius:0 0 18px 18px;z-index:2}
+body.small .notch{top:10px;width:96px;height:20px}
+.side{max-width:400px}.side h1{font-size:38px;margin:0 0 14px;letter-spacing:-1px}.side p{font-size:21px;line-height:1.45;color:#3a3630;margin:0 0 12px}.side .a{color:#c8501f;font-weight:700}
+body.small .side{max-width:280px}body.small .side h1{font-size:28px}body.small .side p{font-size:16px}</style>
+<div class="side"><h1>One screen.</h1><p>Your agent speaks up only when there's something to decide. <span class="a">In</span> · Not this time.</p><p>Say anything to it; it remembers everything and the screen forgets.</p><p>Nothing happens until you tap.</p></div>
+<div class="phone"><div class="notch"></div><iframe id="f" src="about:blank"></iframe></div>
+<script>const q=new URLSearchParams(location.search); const u=q.get('src'); if(u){document.getElementById('f').src=u;} if(q.get('small')){document.body.classList.add('small');}</script>

@@ -1,0 +1,18 @@
+[project]
+name = "cahoots"
+version = "0.1.0"
+description = "Your agent is in cahoots with everyone else's to get you out of the house."
+requires-python = ">=3.12"
+dependencies = [
+  "strands-agents[a2a,bidi]",
+  "strands-agents-tools",
+  "bedrock-agentcore",
+  "bedrock-agentcore-starter-toolkit",
+  "boto3",
+  "pydantic>=2",
+  "fastapi",
+  "uvicorn",
+]
+
+[tool.setuptools.packages.find]
+include = ["cahoots*"]

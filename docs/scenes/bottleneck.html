@@ -1,0 +1,113 @@
+<!doctype html><meta charset="utf-8"><title>the bottleneck</title>
+<style>
+html,body{margin:0;background:#111;font-family:-apple-system,Segoe UI,Helvetica,Arial;overflow:hidden}
+#stage{position:relative;width:1280px;height:720px;overflow:hidden}
+svg{position:absolute;inset:0;width:1280px;height:720px;pointer-events:none}
+.d{position:absolute;border-radius:50%;background:#37373b;width:10px;height:10px;margin:-5px 0 0 -5px;opacity:1;transition:opacity .7s,background .6s}
+.d.hot{background:#e8825a;width:16px;height:16px;margin:-8px 0 0 -8px}
+.d.cool{background:#4a4a50}
+.pulse{animation:p 2.2s ease-out infinite}
+@keyframes p{0%{box-shadow:0 0 0 0 rgba(232,130,90,.45)}100%{box-shadow:0 0 0 18px rgba(232,130,90,0)}}
+.try{stroke:#e8825a;stroke-width:2;stroke-dasharray:6 8;opacity:0;transition:opacity .5s}.try.on{opacity:.65}
+.link{stroke:#e8825a;stroke-width:2.2;opacity:0;transition:opacity .6s}.link.on{opacity:.9}
+.lbl{position:absolute;color:#e6e0d8;font-size:16px;white-space:nowrap;opacity:0;transition:opacity .6s;transform:translate(-50%,0)}.lbl.on{opacity:1}
+.big{position:absolute;left:0;right:0;text-align:center;color:#fff;font-size:30px;font-weight:700;opacity:0;transition:opacity .7s}.big.on{opacity:1}.big b{color:#e8825a}
+#room{fill:none;stroke:#8f8f97;stroke-width:2;stroke-dasharray:7 8;opacity:0;transition:opacity .7s}
+.panel{position:absolute;background:#1b1b1f;border:1px solid #33333a;border-radius:12px;padding:16px 18px;opacity:0;transition:opacity .7s;transform:translate(-50%,0)}.panel.on{opacity:1}
+.panel .h{font-size:13px;letter-spacing:.10em;text-transform:uppercase;color:#7d7d84;margin-bottom:10px}
+.grid{display:grid;grid-template-columns:repeat(20,11px);gap:5px}
+.g{width:8px;height:8px;border-radius:50%;background:#37373b}
+.g.on{background:#e8825a}
+.cmp{color:#9a9aa2;font-size:15px;margin-top:10px}
+.bar{height:9px;border-radius:5px;background:linear-gradient(90deg,#4a3a33,#2c2c31);margin:6px 0;filter:blur(2.4px)}
+.plain{color:#6f6f77;font-size:14px;margin:4px 0}
+.ring2{fill:none;stroke:#e8825a;stroke-width:1.6;opacity:0}
+.ring2.go{animation:r2 1.6s ease-out}
+@keyframes r2{0%{r:6px;opacity:.85}100%{r:19px;opacity:.35}}
+</style>
+<div id="stage"><svg id="svg"></svg>
+<div class="big" id="big1" style="top:96px"></div>
+<div class="big" id="big2" style="bottom:56px"></div></div>
+<script>
+const W=1280,H=720,stage=document.getElementById('stage'),svg=document.getElementById('svg'),NS='http://www.w3.org/2000/svg';
+const P={A:[400,330],B:[690,352],room:[360,300],hire:[930,250],known1:[1020,190],known2:[1010,318],far:[700,600]};
+let seed=11; const rnd=()=>(seed=(seed*16807)%2147483647)/2147483647;
+const taken=Object.values(P), greys=[];
+for(let i=0;i<40;i++){let x,y,ok,t=0;
+  do{x=W*(0.06+rnd()*0.88);y=H*(0.10+rnd()*0.80);
+     ok=taken.every(p=>Math.hypot(x-p[0],y-p[1])>62)&&greys.every(p=>Math.hypot(x-p[0],y-p[1])>44);}while(!ok&&++t<600);
+  if(ok)greys.push([x,y]);}
+function dot(p,cls){const d=document.createElement('div');d.className='d'+(cls?' '+cls:'');d.style.left=p[0]+'px';d.style.top=p[1]+'px';stage.appendChild(d);return d;}
+function line(a,b,cls){const l=document.createElementNS(NS,'line');l.setAttribute('class',cls);l.setAttribute('x1',a[0]);l.setAttribute('y1',a[1]);l.setAttribute('x2',b[0]);l.setAttribute('y2',b[1]);svg.appendChild(l);return l;}
+function lbl(p,text,dy){const t=document.createElement('div');t.className='lbl';t.style.left=p[0]+'px';t.style.top=(p[1]+dy)+'px';t.textContent=text;stage.appendChild(t);return t;}
+const D={}; for(const k in P) D[k]=dot(P[k]);
+const G=greys.map(p=>dot(p));
+const at=(s,fn)=>setTimeout(fn,s*1000);
+const big1=document.getElementById('big1'), big2=document.getElementById('big2');
+
+// 0.00-6.42  the bottleneck is two people who should have met, four streets apart, who never find out the other exists
+at(1.10,()=>{D.A.classList.add('hot','pulse');});
+at(2.10,()=>{D.B.classList.add('hot','pulse');});
+const brace=line(P.A,P.B,'try'); const braceL=lbl([(P.A[0]+P.B[0])/2,(P.A[1]+P.B[1])/2],'four streets',-26);
+at(3.20,()=>{brace.classList.add('on');braceL.classList.add('on');});
+at(6.30,()=>{brace.classList.remove('on');braceL.classList.remove('on');});
+// 6.61-14.98  a room of perfectly nice people, none of them are your people, and you start to suspect the problem is you
+const room=document.createElementNS(NS,'circle');room.setAttribute('id','room');room.setAttribute('cx',P.room[0]);room.setAttribute('cy',P.room[1]);room.setAttribute('r',150);svg.appendChild(room);
+at(6.80,()=>{room.style.opacity='.85';});
+at(7.00,()=>{G.forEach(d=>{const x=parseFloat(d.style.left),y=parseFloat(d.style.top);
+   if(Math.hypot(x-P.room[0],y-P.room[1])<150) d.classList.add('cool');});});
+const youL=lbl(P.A,'everyone here is perfectly nice',-150);
+at(8.00,()=>youL.classList.add('on'));
+at(10.60,()=>{youL.textContent='none of them are your people';});
+at(13.30,()=>{big2.innerHTML='so you start to suspect <b>the problem is you</b>';big2.classList.add('on');});
+at(15.00,()=>{big2.classList.remove('on');youL.classList.remove('on');room.style.opacity='0';});
+// 15.16-23.04  the problem is not you: twelve percent of adults say they have no close friends at all, up from three percent in 1990
+const stat=document.createElement('div');stat.className='panel';stat.style.left='640px';stat.style.top='250px';
+stat.innerHTML='<div class="h">adults with no close friends</div><div class="grid" id="grid"></div><div class="cmp" id="cmp"></div>';
+stage.appendChild(stat);
+const grid=stat.querySelector('#grid'); const cells=[];
+for(let i=0;i<100;i++){const c=document.createElement('div');c.className='g';grid.appendChild(c);cells.push(c);}
+at(15.40,()=>stat.classList.add('on'));
+for(let i=0;i<12;i++) at(16.90+i*0.22,()=>cells[i].classList.add('on'));
+at(21.20,()=>{stat.querySelector('#cmp').textContent='today  12 in 100        1990  3 in 100';});
+at(23.00,()=>stat.classList.remove('on'));
+// 23.21-29.16  the same failure decides careers, because most people find work through people they already know
+at(23.40,()=>{D.hire.classList.add('hot');});
+const hireL=lbl(P.hire,'hiring',-30); at(23.60,()=>hireL.classList.add('on'));
+const h1=line(P.hire,P.known1,'link'), h2=line(P.hire,P.known2,'link');
+at(26.20,()=>{D.known1.classList.add('hot');h1.classList.add('on');});
+at(26.90,()=>{D.known2.classList.add('hot');h2.classList.add('on');});
+const farL=lbl(P.far,'actually right for it',28);
+at(27.60,()=>{D.far.classList.add('hot','pulse');farL.classList.add('on');});
+const farTry=line(P.far,P.hire,'try');
+at(28.10,()=>farTry.classList.add('on')); at(29.00,()=>farTry.classList.remove('on'));
+at(29.30,()=>{[hireL,farL].forEach(l=>l.classList.remove('on'));h1.classList.remove('on');h2.classList.remove('on');});
+// 29.34-35.74  someone doing that work for you all day, using everything about you without publishing it
+const churn=[[1,9],[4,14],[12,25],[7,30],[20,33],[2,18],[16,28],[6,23]].map(([i,j])=>line(P.A,greys[j%greys.length],'try'));
+churn.forEach((l,i)=>{at(29.60+i*0.25,()=>l.classList.add('on'));at(30.80+i*0.25,()=>l.classList.remove('on'));});
+const priv=document.createElement('div');priv.className='panel';priv.style.left='400px';priv.style.top='170px';priv.style.width='230px';
+priv.innerHTML='<div class="h">everything about you, never posted</div><div class="bar" style="width:100%"></div><div class="bar" style="width:84%"></div><div class="bar" style="width:62%"></div>';
+stage.appendChild(priv);
+at(32.30,()=>priv.classList.add('on'));
+// 35.92-41.10  no person could do that for a whole town, and a public profile can't do it either
+const prof=document.createElement('div');prof.className='panel';prof.style.left='880px';prof.style.top='170px';prof.style.width='230px';
+prof.innerHTML='<div class="h">a public profile</div><div class="plain">likes: music, travel</div><div class="plain">looking to: connect</div><div class="plain">fun fact: I love coffee</div>';
+stage.appendChild(prof);
+at(38.40,()=>prof.classList.add('on'));
+at(39.80,()=>{big2.innerHTML='true, but <b>useless</b>';big2.style.bottom='150px';big2.classList.add('on');});
+at(41.10,()=>{big2.classList.remove('on');priv.classList.remove('on');prof.classList.remove('on');});
+// 41.28-44.05  an agent can, so everyone gets one
+const all=[...G,...Object.values(D)];
+all.forEach((d,i)=>at(41.50+i*0.022,()=>{
+  const x=parseFloat(d.style.left),y=parseFloat(d.style.top);
+  const r=document.createElementNS(NS,'circle');r.setAttribute('class','ring2');r.setAttribute('cx',x);r.setAttribute('cy',y);r.setAttribute('r',6);svg.appendChild(r);
+  requestAnimationFrame(()=>r.classList.add('go'));
+  setTimeout(()=>{r.setAttribute('r',15);r.style.opacity='.5';},1600);
+}));
+at(42.60,()=>{big2.innerHTML='<b>everyone</b> gets one';big2.style.bottom='56px';big2.classList.add('on');});
+// 44.23-50.38  you tell it once: this is who I am, this is what I want, introduce me to whoever is worth meeting
+at(44.30,()=>{big2.classList.remove('on');});
+at(44.90,()=>{big1.innerHTML='This is who I am.';big1.classList.add('on');});
+at(46.40,()=>{big1.innerHTML='This is who I am. This is what I want.';});
+at(48.00,()=>{big2.innerHTML='Introduce me to <b>whoever is worth meeting</b>.';big2.classList.add('on');});
+</script>
