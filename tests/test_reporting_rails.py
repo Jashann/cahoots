@@ -1,4 +1,4 @@
-"""Round-52 findings, each pinned to the live line that produced it."""
+"""Reporting rails, each pinned to the live line that produced it."""
 import sys
 from pathlib import Path
 

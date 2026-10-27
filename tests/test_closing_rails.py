@@ -1,4 +1,4 @@
-"""Round-53 findings, each pinned to the live line that produced it."""
+"""Closing and holding rails, each pinned to the live line that produced it."""
 import json
 import sys
 from pathlib import Path

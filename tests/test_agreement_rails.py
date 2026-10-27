@@ -1,4 +1,4 @@
-"""Round-51 findings, each pinned to the live line that produced it."""
+"""Agreement and hold rails, each pinned to the live line that produced it."""
 import sys
 from datetime import datetime
 from pathlib import Path

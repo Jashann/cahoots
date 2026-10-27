@@ -2,8 +2,8 @@
 
 def test_holding_reply_means_checking_not_yes(tmp_path, monkeypatch):
     """Dutch's agent proposed Tuesday at Forth, then said "I'll check with Dutch and come back": the plan may still be asked of a
-    real person, but with the caveat that Dutch is still checking, never as Dutch's yes (round 53: a courtesy on the holding line
-    had been scoring as a firm yes)."""
+    real person, but with the caveat that Dutch is still checking, never as Dutch's yes (a courtesy on the holding line
+    had been read as a firm yes)."""
     from cahoots import social
     from cahoots.agentfs import AgentFS
     monkeypatch.setattr(social, "_network_index", lambda: {"u-63e403": "Dutch"})
